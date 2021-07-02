@@ -1,564 +1,564 @@
-character, unicode, short_name,keyword
-,&#xe600;,menu,Overall system menu in the application shell
-,&#xe601;,menu-options,–
-,&#xe602;,notifications,System notifications
-,&#xe603;,settings,Global system settings
-,&#xe604;,preferences,Object preferences
-,&#xe605;,preferences-options,Cluster multiple preferences options
-,&#xe606;,reload,Reload/refresh/update an area/objetct
-,&#xe607;,search,Search at a global level/within a control
-,&#xe608;,fullscreen,Go fullscreen
-,&#xe609;,new,Create/add an new object
-,&#xe60a;,new-options,Cluster multiple create/add options
-,&#xe60b;,delete,Permanten deletion of persisted objects and data (i.e. delete a Story)
-,&#xe60c;,delete-options,Cluster multiple delete options
-,&#xe60d;,copy,Copy an object
-,&#xe60e;,copy-options,Cluster multiple copy options
-,&#xe60f;,edit,Edit an object
-,&#xe610;,folder,Grouping of multiple objects
-,&#xe611;,print,Print system data
-,&#xe612;,save,Save an object
-,&#xe613;,save-options,Cluster multiple save options
-,&#xe614;,completed,Checkmark for checkboxes. Accomplished status (Calendar: Task status)
-,&#xe615;,cancel,Cancel/decline actions and workflows. Close a control (i.e. close message strip)
-,&#xe616;,undo,Undo an action
-,&#xe617;,redo,Redo an action
-,&#xe618;,import,Bringing data (external format) into your system (locally)
-,&#xe619;,export,Packing data/ exporting an object to external formats to continue to use it with other tools/ products
-,&#xe61a;,calendar,Trigger a calendar (i.e. to select a date)
-,&#xe61b;,pin,"Pin an object somewhere (i.e. home sreen, libary)"
-,&#xe61c;,pin-options,Cluster multiple pin options
-,&#xe61d;,attachment,"Attach an object (i.e. to a discussion, event, task)"
-,&#xe61e;,attachment-options,Cluster multiple attach options
-,&#xe61f;,share,"Share an object (to users within the app, externally to everyone)"
-,&#xe620;,publish,"Publish an object to a broader audience (i.e. making a private version of a Data Model public to be accessible by all users, or publishing a Story from Orca to Analytics Hub to be listed there as well)"
-,&#xe621;,security,Secure an object. Object is secured
-,&#xe622;,public,Object is not secured
-,&#xe623;,photo,Take a picture
-,&#xe624;,up,"Navigate, page, scroll up, collapse tokens"
-,&#xe625;,down,"Navigate, page, scroll down, expand tokens"
-,&#xe626;,previous,"Navigate, page, scroll backwards"
-,&#xe627;,next,"Navigate, page, scroll forwards"
-,&#xe628;,ascending,Column of repository list is sorted ascending
-,&#xe629;,descending,Column of repository list is sorted descending. Hierarchical lists to expand/collapse leaf nodes
-,&#xe62a;,truncation,Truncate toolbar buttons and move them into one select drop down
-,&#xe62b;,truncation-options,–
-,&#xe62c;,star-filled,"Shows object is highlighted as favorite, or indicates it‘s rating"
-,&#xe62d;,upload,Copy content from me to electronic location
-,&#xe62e;,download,Copy content from electronic location to me
-,&#xe62f;,grip-vertical,Indicate object can be resized
-,&#xe630;,grip-horizontal,Indicate object can be resized
-,&#xe631;,designer,Trigger styling panel
-,&#xe632;,properties,Trigger properties
-,&#xe633;,preview,Picture.Trigger preview panel
-,&#xe634;,details,Trigger Details panel
-,&#xe635;,charts,Charts
-,&#xe636;,success,Success message/notification
-,&#xe637;,warning,Warning message/notification
-,&#xe638;,alert,Alert message/notification (error)
-,&#xe639;,info,Information message/notification/text
-,&#xe63a;,help,Trigger global help
-,&#xe63b;,smart-help,Trigger context sensitive help
-,&#xe63c;,home,Home screen
-,&#xe63d;,dashboards,Dashboard(s)
-,&#xe63e;,models,"Models(s), Model wizard (in a Story)"
-,&#xe63f;,perspectives,Dimension(s)
-,&#xe640;,reports,Report(s)
-,&#xe641;,filter,Set filter. Objects are filtered
-,&#xe642;,tag,"Tag an object, Account attributes (i.e. Story builder panel), Function argument for R visualization script editor > auto suggestion, Argument(s) of a Script Function (i.e. App Design)"
-,&#xe643;,kpi,Set Key performance Indicator (KPI)
-,&#xe644;,style,"Theme, apply theme"
-,&#xe645;,contextual-chart,Add contextual chart (used in Stories for geo widget)
-,&#xe646;,columns,Columns
-,&#xe647;,zoom-out,Zoom out on a chart
-,&#xe648;,versions,Categories & Versions
-,&#xe649;,versions-options,Cluster multiple categories & versions options
-,&#xe64a;,merge-cells,Merge cells
-,&#xe64b;,unmerge-cells,Unmerge cells
-,&#xe64c;,show-hide-grid-dimension,Show/hide perspectives on grid (report)
-,&#xe64d;,bold,Bold text
-,&#xe64e;,underline,Underlined text
-,&#xe64f;,strike,Striked text
-,&#xe650;,italic,Italic text
-,&#xe651;,left-aligned,Left aligned text
-,&#xe652;,centered,Centered text
-,&#xe653;,right-aligned,Right aligned text
-,&#xe654;,no-border,Cell(s) without borders
-,&#xe655;,left-border,Cell(s) with border on the left side
-,&#xe656;,top-border,Cell(s) with border on the top
-,&#xe657;,right-border,Cell(s) with border on the right side
-,&#xe658;,bottom-border,Cell(s) with border on the bottom
-,&#xe659;,outside-border,Cell(s) with borders on outsides
-,&#xe65a;,all-borders,Cell(s) with border on outsides & insides
-,&#xe65b;,area,Area chart
-,&#xe65c;,font-color,Font color
-,&#xe65d;,fill-background-color,Backgorund color
-,&#xe65e;,color,Icon is part of color mangement control
-,&#xe65f;,expand-all,Expand all
-,&#xe660;,collaps-all,Collapse all
-,&#xe661;,select-all-cells,Select all cells in a data grid
-,&#xe662;,line,Line and time series charts
-,&#xe663;,bar-rows,Bar chart
-,&#xe664;,bar-columns,Column chart
-,&#xe665;,stacked-bar-rows,Stacked bar chart
-,&#xe666;,stacked-bar-columns,Stacked column chart
-,&#xe667;,map,Geo chart
-,&#xe668;,gauge-bar,Gauge bar chart
-,&#xe669;,gauge-circle,Gauge chart
-,&#xe66a;,box-plot,Box plot chart
-,&#xe66b;,auto-sync,Syncronize automatically
-,&#xe66c;,files,Files
-,&#xe66d;,deployment,Deployment
-,&#xe66e;,conversations,Discussion(s). Trigger Collaboration panel
-,&#xe66f;,comment,Comment
-,&#xe670;,new-calculation,Add calculation (in story for tables and charts)
-,&#xe671;,send,Send message
-,&#xe672;,link,Link. To link objects.Objects are linked
-,&#xe673;,unlink,Unlink objects
-,&#xe674;,events,Event(s)
-,&#xe675;,task,Task
-,&#xe676;,pending,Action is pending (i.e. outstanding descision assignee/reviewer/approver)
-,&#xe677;,accept,"Accept action (by assignee/reviewer/approver), Action/object was accepted"
-,&#xe678;,review,Action is in review (by reviewer/approver)
-,&#xe679;,approval,Action was approved
-,&#xe67a;,reject,Action was rejected (i.e. submitted input task for approval).Reset a selection to it's default state
-,&#xe67b;,reminder,Set reminder
-,&#xe67c;,users,Users/Group of Peolple
-,&#xe67d;,person,Person.Add people
-,&#xe67e;,roles,Role(s)
-,&#xe67f;,request,Request Role
-,&#xe680;,history,History
-,&#xe681;,template,Template(s)
-,&#xe682;,options,Options arrow for menu buttons (to trigger select drop down)
-,&#xe683;,messages,Message(s)
-,&#xe684;,power,Power on/off
-,&#xe685;,activities,Activity/acctivities
-,&#xe686;,geo,"Geo, Geo dimension with hierarchies, Data Import: Data that is identified to be of geo type, Global (vs.local)"
-,&#xe687;,summary,Summary
-,&#xe688;,variance,Variance bar chart
-,&#xe689;,variance-line,Variance line chart
-,&#xe68a;,data,Data
-,&#xe68b;,scatter-plot,Scatter plot chart
-,&#xe68c;,font-color-white,Font color white
-,&#xe68d;,fill-background-color-white,Backgorund color white
-,&#xe68e;,text,Font size
-,&#xe68f;,profile,Profile
-,&#xe690;,color-picker,Color picker
-,&#xe691;,timeline,Trigger timeline panel
-,&#xe692;,import-options,Cluster multiple import options
-,&#xe693;,export-options,Cluster multiple export options
-,&#xe694;,color-white,Icon is part of color mangement control
-,&#xe695;,date,Date
-,&#xe696;,currencies,Currency/currencies
-,&#xe697;,hierarchy,Hierarchy
-,&#xe698;,number,Number(s)/numeric
-,&#xe699;,formula,"All kind of formulas, Opens calculation editor dialog, Indicates calculation, Toggle button in grid‘s text/formula bar"
-,&#xe69a;,models-imported,Imported model(s)
-,&#xe69b;,shape,"Shape, Add shape"
-,&#xe69c;,justified-aligned,Justified aligned objects
-,&#xe69d;,vertical-align-top,Vertically top aligned objects
-,&#xe69e;,vertical-align-middle,Vertically middle aligned objects
-,&#xe69f;,vertical-align-bottom,Vertically bottom aligned objects
-,&#xe6a0;,list-bulleted,Bulleted list
-,&#xe6a1;,list-numbered,Numbered list
-,&#xe6a2;,cell-reference,Cell reference on a cross table
-,&#xe6a3;,waterfall-rows,Waterfall chart
-,&#xe6a4;,driver-tree,Driver tree chart
-,&#xe6a5;,fit-to-workspace,Fit item to workspace
-,&#xe6a6;,trend,Predictive
-,&#xe6a7;,normalscreen,Minimize item to normal size
-,&#xe6a8;,beginning,"Navigate, page, scroll to beginning"
-,&#xe6a9;,end,"Navigate, page, scroll to end"
-,&#xe6aa;,donut,Donut chart
-,&#xe6ab;,combined_column_line,"Combined column & line chart, stacked combined column & line chart"
-,&#xe6ac;,drill,Drill hierarchies
-,&#xe6ad;,heat_map,Heat map chart
-,&#xe6ae;,pie,Pie chart
-,&#xe6af;,table,Table
-,&#xe6b0;,edit-options,Cluster multiple edit options
-,&#xe6b1;,password,Password
-,&#xe6b2;,stories,Story/stories
-,&#xe6b3;,allocation,Allocation
-,&#xe6b4;,bring_to_front,Bring object to front
-,&#xe6b5;,bring_forward,Bring object forward
-,&#xe6b6;,bring_to_back,Bring object to back
-,&#xe6b7;,bring_backward,Bring object backward
-,&#xe6b8;,left-aligned-object,Left aligned object
-,&#xe6b9;,vertically-aligned-object,Vertically aligned object
-,&#xe6ba;,right-aligned-object,Right aligned object
-,&#xe6bb;,top-aligned-object,Top aligned object
-,&#xe6bc;,horizontally-aligned-object,Horizontally aligned object
-,&#xe6bd;,bottom-aligned-object,Bottom aligned object
-,&#xe6be;,fill_color,Fill color
-,&#xe6bf;,bridge,Bridge chart
-,&#xe6c0;,expand_size,Expand object
-,&#xe6c1;,primary-data-left-joint,"Left joint, primary data is left table (used in data wrangling, blending)"
-,&#xe6c2;,sorted-options,Please use sort icon instead.
-,&#xe6c3;,like,"To like an object, Object is not yet liked"
-,&#xe6c4;,like-filled,Like an object
-,&#xe6c5;,rank,Rank
-,&#xe6c6;,drill_up,Drill up the hierarchy
-,&#xe6c7;,drill_down,Drill down the hierarchy
-,&#xe6c8;,filter-options,Cluster multiple filter options
-,&#xe6c9;,value-help,Value help
-,&#xe6ca;,connections,Connections
-,&#xe6cb;,reuse,Reuse object
-,&#xe6cc;,allocation-options,Cluster multiple allocation options
-,&#xe6cd;,data-changes,Data changes
-,&#xe6ce;,input-form,Input form
-,&#xe6cf;,form-options,Cluster multiple input form options
-,&#xe6d0;,archive,Archive.Package in R-Language auto suggestion
-,&#xe6d1;,line-double-axis,Dual axsis line chart
-,&#xe6d2;,bookmark,Bookmark(s)
-,&#xe6d3;,color-picker-options,Cluster muliple color picker options
-,&#xe6d4;,variable,"Variable(s), Script Variable(s) (App Design), Prompt (Story)"
-,&#xe6d5;,variable-options,Cluster multiple variable options
-,&#xe6d6;,network,Network
-,&#xe6d7;,blending,Blending
-,&#xe6d8;,feature,Feature layer (used in geo maps)
-,&#xe6d9;,marker,Marker
-,&#xe6da;,circle,Circle marker(s)
-,&#xe6db;,square,"Chloropleth layer for geo maps, Environement for R-Language auto suggestion"
-,&#xe6dc;,layers,Layer(s)
-,&#xe6dd;,polygon-tool,Polygon tool
-,&#xe6de;,show,Show object
-,&#xe6df;,hide,Hide object
-,&#xe6e0;,server,Server
-,&#xe6e1;,drill_leaves,"Drill to leafs (planning), Expand next level (BI)"
-,&#xe6e2;,minus,"Zoom out, Properties (in a Model)"
-,&#xe6e3;,launch,Save & roll out/Launch
-,&#xe6e4;,base_map,Map
-,&#xe6e5;,organization,Organization perspective
-,&#xe6e6;,generic,Generic perspective
-,&#xe6e7;,cost_pool,Cost pool peperspective
-,&#xe6e8;,account,Account perspective
-,&#xe6e9;,time,"Time perspective, Time"
-,&#xe6ea;,value-driver-tree,Value driver tree chart
-,&#xe6eb;,split-view,Split view
-,&#xe6ec;,single-view,Single view
-,&#xe6ed;,hierarchy_deselected,"Deselect hierarchy, hierarchy is deselected"
-,&#xe6ee;,location-pin,"Marked location on geo-map, Target (Allocation)"
-,&#xe6ef;,banknote,Source (Allocations)
-,&#xe6f0;,eraser,Clear object
-,&#xe6f1;,cross_table,Cross table
-,&#xe6f2;,ibcs_table,IBCS table
-,&#xe6f3;,explore_view,Explore view
-,&#xe6f4;,icicle,Icicle chart
-,&#xe6f5;,monitor,Monitor data
-,&#xe6f6;,flip,Flip objects
-,&#xe6f7;,located,"Location, Geo coordinate dimension, Object is located (i.e. chart tile on a big canvas), Local (vs. global)"
-,&#xe6f8;,cloud,"Cloud, tag cloud chart"
-,&#xe6f9;,tree-map,Tree map chart
-,&#xe6fa;,marimekko,Marimekko chart
-,&#xe6fb;,bubble,Bubble chart
-,&#xe6fc;,radar,Radar chart
-,&#xe6fd;,combined_bar_line,"Combined bar & line chart, stacked combined bar & line chart"
-,&#xe6fe;,measure,Measure(s)
-,&#xe6ff;,star,"Highlight as favorite, rate an object"
-,&#xe700;,file,File
-,&#xe701;,code,Code
-,&#xe702;,light-bulb,"Idea(s), Smart insights (predictive)"
-,&#xe703;,map_geo,Heat map visualization on a geo map
-,&#xe704;,boardroom,Digital Boardroom
-,&#xe705;,agenda,Agenda for a boardroom presentation
-,&#xe706;,add_row_column,Add Row/Column (choose row or column in drop down menu)
-,&#xe707;,remove_row_column,Remove Row/Column (choose row or column in drop down menu)
-,&#xe708;,merge,Generic icon for merge feature (choose merge or unmerge cells in drop down menu
-,&#xe709;,reference-line,Reference Line for Charts
-,&#xe70a;,play,Play video
-,&#xe70b;,explore,Explore an object (i.e. user‘s data)
-,&#xe70c;,color-transparent,"Color transparent (set color, display selected color)"
-,&#xe70d;,scatter-bubble,Scatter bubble chart
-,&#xe70e;,font,"Font type, toggle button in grid‘s text/formula bar"
-,&#xe70f;,extract,Extract values/characters from cell(s)
-,&#xe710;,bar-width,Bar width
-,&#xe711;,broken-scale,Indicates the scale of a chart is broken (icon is for state not action)
-,&#xe712;,vector,Vector path
-,&#xe713;,zoom-in,Zoom in
-,&#xe714;,primary-data,Primary data (belongs to blending)
-,&#xe715;,all-data,"Full outer joint, all data from both tables (used in blending)"
-,&#xe716;,intersecting-data,"Inner joint, only rows and cols that match (used in blending)"
-,&#xe717;,input-control,Input-control
-,&#xe718;,move-control-to-bar,Move control back to bar
-,&#xe719;,time-series,Time series chart
-,&#xe71a;,lock-cell,Lock cell
-,&#xe71b;,clear-filter,Clear filter (used in Geo toolbar)
-,&#xe71c;,new-filter,"New filter (this icon should be only used for the filter bar, other then that please use generel filter icon)"
-,&#xe71d;,step,Allocation step
-,&#xe71e;,spread,Spreading (allocation)
-,&#xe71f;,distribute,Distribution (allocation)
-,&#xe720;,break-axis,Break axis on a chart
-,&#xe721;,group,"Group elements (i.e. objects on a canvas, nodes in VDT)"
-,&#xe722;,calculate,"Calculation, calculation node type in VDT"
-,&#xe723;,growth-rate,"Growth rate, year over year node type in VDT"
-,&#xe724;,customise,"Customize, custome logic node type in VDT"
-,&#xe725;,union,Union node in VDT (it creates an aggregate of two or more nodes)
-,&#xe726;,flip-vertically,Flip raised axis
-,&#xe727;,ungroup,Unroup elements (i.e. objects on a canvas)
-,&#xe728;,transform,Transform icon in transformation bar
-,&#xe729;,cut,"Cut selected objects (i.e. text), trim values to a certain length"
-,&#xe72a;,fill-up,Fill up values/characters to the same lenght in cell(s)/row (i.e. by adding n “0”s at the end)
-,&#xe72b;,convert,Convert cell/row format (i.e. numeric to text)
-,&#xe72c;,replace,Replace cells/row with other cells/row
-,&#xe72d;,move,Move items (i.e. VDT: Move node to an other lane)
-,&#xe72e;,external-logic,Special node type in VDT
-,&#xe72f;,online-meeting,Start Online Meeting (i.e. in Digital Boardroom)
-,&#xe730;,phone,"Hang up, end online meeting, voice call"
-,&#xe731;,hand,Virtual control in online meeting on a touch device
-,&#xe732;,tiles,Tiles view in repository list
-,&#xe733;,list,List view in repository list
-,&#xe734;,item-arrangement,Item arrangement in repository list
-,&#xe735;,outline-fill,Icon is part of color mangement control
-,&#xe736;,outline,Icon is part of color mangement control
-,&#xe737;,slash,Icon is part of color mangement control
-,&#xe738;,cell-height,To edit heigth of cell
-,&#xe739;,cell-width,To edit width of cell
-,&#xe73a;,rotate-right-90,To rotate an object 90 degree clockwise
-,&#xe73b;,rotate-left-90,To rotate an object 90 degree counterclockwise
-,&#xe73c;,rotate-180,To rotate an object 180 degree
-,&#xe73d;,scale,"To scale an object, to trigger measure scale panel"
-,&#xe73e;,inside-borders,Cell(s) with inside borders
-,&#xe73f;,inside-horizontal-border,Cell(s) with inside horizontal border
-,&#xe740;,inside-vertical-border,Cell(s) with inside vertical border
-,&#xe741;,diagonal-down-border,Cell(s) with diagonal down border
-,&#xe742;,diagonal-up-border,Cell(s) with diagonal up border
-,&#xe743;,sort,Sort objects
-,&#xe744;,sort-ascending,"Sort ascending (i.e. in dimension a crosstab), Object is sorted ascending (i.e. in dimension a crosstab)"
-,&#xe745;,sort-descending,"Sort descending (i.e. dimension a crosstab), Object is sorted descending (i.e. dimension a crosstab)"
-,&#xe746;,route,Route layer for geo maps
-,&#xe747;,open-new-window,"Open an object in a new window, Navigate to..."
-,&#xe748;,exclude,"Remove objects/selections/settings, which can be easily restored (i.e. item from list, token), Exclude selected item(s) from visualization and don't take it's value into account for dissaggregation (i.e. exclude filter for data points in charts, crosstab, and geomap)"
-,&#xe749;,edit-axis,Edit chart axis
-,&#xe74a;,discover,Machine discovery (predictive workflow)
-,&#xe74b;,fireworks,Keyinfluencer (predictive workflow)
-,&#xe74c;,outlier,Outlier (predictive workflow)
-,&#xe74d;,paste,Past (counter part for copy symbol)
-,&#xe74e;,dynamic-token,Dynamic tokens (i.e. dynamic text token in Story)
-,&#xe74f;,root-folder,System root folder in file repository
-,&#xe750;,bars-overlapping-1,Accessing versions in Story: Show versions as upper bar overlapping
-,&#xe751;,bars-overlapping-2,Accessing versions in Story: Show versions as bottom bar overlapping
-,&#xe752;,bar-with-pointer,Accessing versions in Story: Show versions as bar with pointer
-,&#xe753;,bars-side-by-side,Accessing versions in Story: Show versions as bars side by side
-,&#xe754;,process,Hamburger menu point Process (shell for Allocation and Value Driver Tree)
-,&#xe755;,simulate,Simulate (context menu and side panel)
-,&#xe756;,annotation,Annotation mode in online meeting
-,&#xe757;,error-bar,Error bar in charts
-,&#xe758;,portrait-format,Portrait page format
-,&#xe759;,landscape-format,Landscape page format
-,&#xe75a;,arrorw-down,Empty states circles: drop area
-,&#xe74e;,turtle,Dimensions with long loading time in charts
-,&#xe75c;,connection,Linked analysis panel icon
-,&#xe75d;,tooltip,Add tooltip (used in Stories for chart widget)
-,&#xe75e;,cluster,Cluster geo-points on map
-,&#xe75f;,new-comment,Add comment in widget-/data point toolbar in Stories
-,&#xe760;,delta-previous-year,Delta value previous year for VDT nodes
-,&#xe761;,delta-first-year,Delta value first year for VDT nodes
-,&#xe762;,rows,Rows
-,&#xe763;,SQL,Data integration: SQL query
-,&#xe764;,r-language,Predictive: r-language
-,&#xe765;,new-member,Add member (on an ad-hoc basis for table in story)
-,&#xe766;,member-order,Change member order (on an ad-hoc basis for table in story)
-,&#xe767;,microphone,"Open voice recognition/speech command in DBR, voice in call (i.e. in online meeting)"
-,&#xe768;,edge,Resize indication on widgets/tiles (i.e. DBR)
-,&#xe769;,percentage,Change chart lables from numeric to percentage (in Stories)
-,&#xe76a;,omega,Open symbol dialog (in Stories)
-,&#xe76b;,support,Call/contact support (i.e. in help center)
-,&#xe76c;,mobile,Indicates file is mobile enabled (i.e responsive stories)
-,&#xe76d;,devices,Show preview for device (i.e responsive stories)
-,&#xe76e;,open,"Open/Insert (i.e. open file in repo, insert item in story, or script editor)"
-,&#xe76f;,multi_selection,Multi selection (i.e. in mobile)
-,&#xe770;,transfer_briefcase,Transfer system ownership/ change system owner
-,&#xe771;,terminal,Script editor/console (i.e. in predictive)
-,&#xe772;,layout,Layout (i.e. layout panel for responsive stories)
-,&#xe773;,device-orientation,Device orientation in responsive pages (Stories)
-,&#xe774;,exception-data,"Exception joint, right table substracts from left table (used in blending)"
-,&#xe775;,function,Function for variable (i.e. R visualization script editor > auto suggestion)
-,&#xe776;,analytic-hub,Analytics hub
-,&#xe777;,book,"File Repo Store, i.e. BOC Content Delivery Service"
-,&#xe778;,box-no-border,Widget(s) without borders
-,&#xe779;,box-left-border,Widget(s) with border on the left side
-,&#xe77a;,box-top-border,Widget(s) with border on the top
-,&#xe77b;,box-right-border,Widget(s) with border on the right side
-,&#xe77c;,box-bottom-border,Widget(s) with border on the bottom
-,&#xe77d;,box-top-bottom-border,Widget(s) with border on the top and bottom
-,&#xe77e;,box-left-right-border,Widget(s) with border on the left and right sides
-,&#xe77f;,box-outside-border,Widget(s) with borders on outsides
-,&#xe780;,leave,Leave a conversation
-,&#xe781;,top-and-bottom-border,Cell(s) with border on the top and bottom
-,&#xe782;,twitter,Twitter
-,&#xe783;,feed,RSS Feed
-,&#xe784;,store,Store
-,&#xe785;,library,"Store library side panel (in DBR), Control library (i.e. in element side panel within the App Design)"
-,&#xe786;,books,Books
-,&#xe787;,threshold-good,Threshold good
-,&#xe788;,threshold-warning,Threshold warning
-,&#xe789;,threshold-alert,Threshold alert (error)
-,&#xe78a;,text-abc,Text
-,&#xe78b;,numbers-123,Numbers
-,&#xe78c;,assign,Set [dimentsion] value for selected member to [X] (Wranglling)
-,&#xe78d;,time-calculation,Time calcuation (i.e. in Story)
-,&#xe78e;,edit-calculation,Edit calculation (i.e. in Story)
-,&#xe78f;,same_elements,vector for R-Language auto suggestion
-,&#xe790;,different_elements,List for R-Language auto suggestion
-,&#xe791;,conditional_formatting,Conditional formatting
-,&#xe792;,center,Move object to center (i.e. node in VDT)
-,&#xe793;,no-edit,"Read-only cell in planning (to prevent user from edit, but the value is not locked and can receive updates from referring cells)"
-,&#xe794;,lightning,Auto-complete (i.e. in VDT auto-complete branch
-,&#xe795;,sum,Change aggregation type (planning)
-,&#xe796;,variance-bar,Varianc bar chart
-,&#xe797;,percentage-pin,Percentage pin chart
-,&#xe798;,alias,"File alias, version alias (i.e. used in planning for version management)"
-,&#xe799;,new-table,Add table (used in Query Builder to add/load related tables)
-,&#xe79a;,static-filter,"Static set/ filter (used in Query Builder), Sets items are exposed as other meta data within the Universe outline and behave as filters"
-,&#xe79b;,temporary-filter,"Temporary set/ filter (used in Query Builder), Sets items are exposed as other meta data within the Universe outline and behave as filters"
-,&#xe79c;,text-wrap,Wrap text automatically (data in the cell wraps to fit the column width)
-,&#xe79d;,linked-model,Linked model
-,&#xe79e;,linked-variable,Linked variable
-,&#xe79f;,histogram,Histogram chart
-,&#xe7a0;,binoculars,Predictive
-,&#xe7a1;,new-model,New model
-,&#xe7a2;,working-model,Working model
-,&#xe7a3;,data-set,Data set
-,&#xe7a4;,wrangling,Wrangling
-,&#xe7a5;,edit-wrangling,Edit wrangling
-,&#xe7a6;,edit-table,Edit table (edit query)
-,&#xe7a7;,mapping,Mapping
-,&#xe7a8;,edit-mapping,Edit mapping
-,&#xe7a9;,hierarchy-parent,Parent (in a hierarchy)
-,&#xe7aa;,hierarchy-child,Child (in a hierarchy)
-,&#xe7ab;,hierarchy-grand-child,Grand child (in a hierarchy)
-,&#xe7ac;,slim-arrow-down,"Slim arrow in drop down field to trigger drop down, Options' arrow for menu buttons to trigger select drop down"
-,&#xe7ad;,slim-arrow-up,Slim arrow up
-,&#xe7ae;,slim-arrow-left,Slim arrow left
-,&#xe7af;,slim-arrow-right,Slim arrow right
-,&#xe7b0;,exit-save,–
-,&#xe7b1;,planning-sequence,Planning Sequence
-,&#xe7b2;,lock-drill,Lock ability for cell
-,&#xe7b3;,screenshot,Screenshot
-,&#xe7b4;,resize-corner,Resize corner for resizable controls
-,&#xe7b5;,add-difference-marker,Add difference marker (charting)
-,&#xe7b6;,dimension-member,Dimension member
-,&#xe7b7;,dimension-filter,Dimension filter
-,&#xe7b8;,dimension-swap,Dimension swap
-,&#xe7b9;,measure-filter,Measure filter
-,&#xe7ba;,measure-swap,Measure swap
-,&#xe7bb;,calculation-swap,Calculation swap
-,&#xe7bc;,advanced-filter,Advanced filter
-,&#xe7bd;,inspection,"Compare note type (Pred Pro), In Review status (Calendar: Task status)"
-,&#xe7be;,new-note,New note (Pred Pro)
-,&#xe7bf;,tree,Classification node type (Pred Pro)
-,&#xe7c0;,clustering,Clustering node type (Pred Pro)
-,&#xe7c1;,regression,Regression node type (Pred Pro)
-,&#xe7c2;,multi_selection_2,Multi selection (mobile)
-,&#xe7c3;,play-process,"Play process, Start Model training (Pred Pro)"
-,&#xe7c4;,stop-process,"Stop process, End Model training (Pred Pro)"
-,&#xe7c5;,editor-comment,Comment symbol in editor (i.e. App Design)
-,&#xe7c6;,radiobutton,Add radiobutton (i.e. App Design)
-,&#xe7c7;,checkbox,Add checkbox (i.e. App Design)
-,&#xe7c8;,button,Add button (i.e. App Design)
-,&#xe7c9;,dialog,Add dialog (i.e. App Design)
-,&#xe7ca;,app-outline,Element side panel (i.e. App Design)
-,&#xe7cb;,dropdown,Dropdown (i.e. App Design)
-,&#xe7cc;,global-variables,Global variables (i.e. App Design)
-,&#xe7cd;,data-save,Save data (i.e. App Design)
-,&#xe7ce;,max-screen,
-,&#xe7cf;,small,
-,&#xe7d0;,medium,
-,&#xe7d1;,large,
-,&#xe7d2;,duster-topics,Duster topics (Events)
-,&#xe7d3,notes,Meeting notes (Events)
-,&#xe7d4;,calendar-today,Go to today (Events)
-,&#xe7d5;,layout-sorting,Sort layout (Events)
-,&#xe7d6;,full-name,Display full name (Events)
-,&#xe7d7;,busy-indicator,In progress state (Events)
-,&#xe7d8;,reject-assignee,Reject assignee (Events)
-,&#xe7d9;,assignees-done,Assignees done (Events)
-,&#xe7da;,event-process,–
-,&#xe7db;,new-member-edit,Edit new member
-,&#xe7dc;,edit-member,Edit member (ad-hoc member on table in story)
-,&#xe7dd;,copy-data,Copy data
-,&#xe7de;,no-assignee,No assignee(s) given (Calendar: Task status)
-,&#xe7df;,tri-state,Tri-state for checkboxes
-,&#xe7e0;,distribute-spacing-vertically,Distribute spacing vertically (charts)
-,&#xe7e1;,distribute-spacing-horizontally,Distribute spacing horizontally (charts)
-,&#xe7e2;,unique,Unique key (data wrangling)
-,&#xe7e3;,close-up,Show together' feature (data wrangling)
-,&#xe7e4;,number-decimals,Column type numbers with decimals (data wrangling)
-,&#xe7e5;,boolean,Column type boolean (data wrangling)
-,&#xe7e6;,translation,Translation space (hamburger menu)
-,&#xe7e7;,dislike,Dislike an object
-,&#xe7e8;,roambi,Roambi logo
-,&#xe7e9;,sample-content,Sample content in content lib (Files)
-,&#xe7ea;,business-content,Business content in content lib (Files)
-,&#xe7eb;,third-party-content,Third party content in content lib (Files)
-,&#xe7ec;,team-folder,Folder for team content (Files)
-,&#xe7ed;,auto-load-filter,–
-,&#xe7ee,live-model,Live model(s)
-,&#xe7ef;,comment-indicator,Comment indicator for comment placed on one of the childreen of this data point (DTC in Story)
-,&#xe7f0;,comment-indicator-filled,Comment indicator for comment on this data point (DTC in Story)
-,&#xe7f1;,draft,Task draft state (calendar)
-,&#xe7f2;,list-numbered-RTL,Numbered list #RTL
-,&#xe7f3;,multi_selection-RTL,Multi selection (i.e. in mobile) #RTL
-,&#xe7f4;,copy-data-2,Copy data across models
-,&#xe7f5;,list-hierarchy,Overview of the currently active application (i.e. App Design)
-,&#xe7f6;,folder-function,Container for reusable script functions (i.e. App Design)
-,&#xe7f7;,canvas,"App Canvas (i.e. empty page in Story, App Design)"
-,&#xe7f8;,partially-completed,Task status: partially completed (Calendar)
-,&#xe7f9;,stop-watch,Task status: overdue (Calendar)
-,&#xe7fa;,date-time,"Timestamp (Wrangling, Query Builder)"
-,&#xe7fb;,apply-down,Selection of multiple items in hierarchy (DBR topic filters)
-,&#xe7fc;,unpivot-transformation,Unpivot transformation (Wrangling)
-,&#xe7fd;,sankey-chart,Sankey chart (Stories)
-,&#xe7fe;,performance,performance (Modeler)
-,&#xe7ff;,google-sheets,Google Sheets (file upload)
-,&#xe800;,bpc-planning-sequence,BPC Planning Sequence
-,&#xe801;,ruum,Ruum (Boardroom)
-,&#xe802;,range-slider,Range Slider (App Building)
-,&#xe803;,slider,Slider (App Building)
-,&#xe804;,backspace,"backspace (Digital Boardroom, Keypad)"
-,&#xe805;,time-entry-request,Time Entry Request (Export Model as File Dialog)
-,&#xe807;,tab-container,Tab Container (App Building)
-,&#xe808;,panel-container,Panel Container (App Building)
-,&#xe809;,open-connectors,Open Connectors (Modeler)
-,&#xe810;,moon,Moon (DWC)
-,&#xe811;,snowflake,temperature-cold
-,&#xe812;,live-table,Live Table (DWC)
-,&#xe813;,relationship-diagram,Relationship Diagram (DWC)
-,&#xe814;,fire,Temperature Hot (DWC)
-,&#xe815;,table-view,Table View (DWC)
-,&#xe816;,primary-key,primary key (DWC)
-,&#xe817;,upload-to-cloud,Upload to Cloud (DWC)
-,&#xe818;,data-warehouse,Data Warehouse (DWC)
-,&#xe819;,data-space-management,Data Space Management (DWC)
-,&#xe81a;,table-builder,"Table Builder, Data Builder (DWC)"
-,&#xe81b;,fact-view,"Fact View, Fact Table (DWC)"
-,&#xe81c;,new-view,New View (DWC)
-,&#xe81d;,live-data-set,Live Dataset
-,&#xe81e;,temperature-cold,Temperature Cold (DWC)
-,&#xe81f;,temperature-hot,Temperature Hot (DWC)
-,&#xe820;,feedback,"Feedback, Qualtrics"
-,&#xe821;,lock-archive,Business Library
-,&#xe822;,carousel,"carousel, Application Designer"
-,&#xe823;,tracking,"Follow, Tracking, Monitor, Watch Follow Data Point"
-,&#xe824;,toggle-switch,"Toggle Switch, Application Designer"
-,&#xe825;,responsive-panel,"Responsive Panel, Responsive Widget (App Building)"
-,&#xe826;,move-top,"Move to top of list (DWC), Custom Sorting (SAC)"
-,&#xe827;,move-bottom,"Move to bottom of list (DWC), Custom Sorting (SAC)"
-,&#xe828;,association,Association (DWC)
-,&#xe829;,authorization-scenario,Authorization Scenario (DWC)
-,&#xe82a;,consumption-model,Consumption Model (DWC)
-,&#xe82b;,fact-model,Fact Model (DWC)
-,&#xe82c;,keyboard,keyboard for Search to Insight Voice (SAC)
-,&#xe82d;,data-flow,"Data Flow in DWC, appears in file repo of SAC (SAC & DWC)"
-,&#xe82e;,watchlist-add,"Watchlist, watch views, add to watchlist (SAC mobile)"
-,&#xe82f;,watchlist,"Watchlist, watch views, (SAC mobile)"
-,&#xe830;,chart-table,"chart, table, views, view"
-,&#xe831;,explore-table,"explore, table, data analyzer"
-,&#xe832;,business-card,"Business Card, Business Layer (DWC)"
-,&#xe833;,permission,"Permission, Authorization (DWC)"
-,&#xe834;,diamond,"threshold, diamond (SAC)"
-,&#xe835;,bullet-chart,bullet chart
-,&#xe836;,folder-search,folder search
-,&#xe837;,catalog,"catalog, model dialog, app switcher"
-,&#xe838;,retail-store-manager,"DWC, modules shell"
-,&#xe839;,retail-store-share,"DWC, modules shell"
+unicode,character,short_name, description
+&#xe600;,,menu,Overall system menu in the application shell
+&#xe601;,,menu-options,–
+&#xe602;,,notifications,System notifications
+&#xe603;,,settings,Global system settings
+&#xe604;,,preferences,Object preferences
+&#xe605;,,preferences-options,Cluster multiple preferences options
+&#xe606;,,reload,Reload/refresh/update an area/objetct
+&#xe607;,,search,Search at a global level/within a control
+&#xe608;,,fullscreen,Go fullscreen
+&#xe609;,,new,Create/add an new object
+&#xe60a;,,new-options,Cluster multiple create/add options
+&#xe60b;,,delete,Permanten deletion of persisted objects and data (i.e. delete a Story)
+&#xe60c;,,delete-options,Cluster multiple delete options
+&#xe60d;,,copy,Copy an object
+&#xe60e;,,copy-options,Cluster multiple copy options
+&#xe60f;,,edit,Edit an object
+&#xe610;,,folder,Grouping of multiple objects
+&#xe611;,,print,Print system data
+&#xe612;,,save,Save an object
+&#xe613;,,save-options,Cluster multiple save options
+&#xe614;,,completed,Checkmark for checkboxes. Accomplished status (Calendar: Task status)
+&#xe615;,,cancel,Cancel/decline actions and workflows. Close a control (i.e. close message strip)
+&#xe616;,,undo,Undo an action
+&#xe617;,,redo,Redo an action
+&#xe618;,,import,Bringing data (external format) into your system (locally)
+&#xe619;,,export,Packing data/ exporting an object to external formats to continue to use it with other tools/ products
+&#xe61a;,,calendar,Trigger a calendar (i.e. to select a date)
+&#xe61b;,,pin,"Pin an object somewhere (i.e. home sreen, libary)"
+&#xe61c;,,pin-options,Cluster multiple pin options
+&#xe61d;,,attachment,"Attach an object (i.e. to a discussion, event, task)"
+&#xe61e;,,attachment-options,Cluster multiple attach options
+&#xe61f;,,share,"Share an object (to users within the app, externally to everyone)"
+&#xe620;,,publish,"Publish an object to a broader audience (i.e. making a private version of a Data Model public to be accessible by all users, or publishing a Story from Orca to Analytics Hub to be listed there as well)"
+&#xe621;,,security,Secure an object. Object is secured
+&#xe622;,,public,Object is not secured
+&#xe623;,,photo,Take a picture
+&#xe624;,,up,"Navigate, page, scroll up, collapse tokens"
+&#xe625;,,down,"Navigate, page, scroll down, expand tokens"
+&#xe626;,,previous,"Navigate, page, scroll backwards"
+&#xe627;,,next,"Navigate, page, scroll forwards"
+&#xe628;,,ascending,Column of repository list is sorted ascending
+&#xe629;,,descending,Column of repository list is sorted descending. Hierarchical lists to expand/collapse leaf nodes
+&#xe62a;,,truncation,Truncate toolbar buttons and move them into one select drop down
+&#xe62b;,,truncation-options,–
+&#xe62c;,,star-filled,"Shows object is highlighted as favorite, or indicates it‘s rating"
+&#xe62d;,,upload,Copy content from me to electronic location
+&#xe62e;,,download,Copy content from electronic location to me
+&#xe62f;,,grip-vertical,Indicate object can be resized
+&#xe630;,,grip-horizontal,Indicate object can be resized
+&#xe631;,,designer,Trigger styling panel
+&#xe632;,,properties,Trigger properties
+&#xe633;,,preview,Picture.Trigger preview panel
+&#xe634;,,details,Trigger Details panel
+&#xe635;,,charts,Charts
+&#xe636;,,success,Success message/notification
+&#xe637;,,warning,Warning message/notification
+&#xe638;,,alert,Alert message/notification (error)
+&#xe639;,,info,Information message/notification/text
+&#xe63a;,,help,Trigger global help
+&#xe63b;,,smart-help,Trigger context sensitive help
+&#xe63c;,,home,Home screen
+&#xe63d;,,dashboards,Dashboard(s)
+&#xe63e;,,models,"Models(s), Model wizard (in a Story)"
+&#xe63f;,,perspectives,Dimension(s)
+&#xe640;,,reports,Report(s)
+&#xe641;,,filter,Set filter. Objects are filtered
+&#xe642;,,tag,"Tag an object, Account attributes (i.e. Story builder panel), Function argument for R visualization script editor > auto suggestion, Argument(s) of a Script Function (i.e. App Design)"
+&#xe643;,,kpi,Set Key performance Indicator (KPI)
+&#xe644;,,style,"Theme, apply theme"
+&#xe645;,,contextual-chart,Add contextual chart (used in Stories for geo widget)
+&#xe646;,,columns,Columns
+&#xe647;,,zoom-out,Zoom out on a chart
+&#xe648;,,versions,Categories & Versions
+&#xe649;,,versions-options,Cluster multiple categories & versions options
+&#xe64a;,,merge-cells,Merge cells
+&#xe64b;,,unmerge-cells,Unmerge cells
+&#xe64c;,,show-hide-grid-dimension,Show/hide perspectives on grid (report)
+&#xe64d;,,bold,Bold text
+&#xe64e;,,underline,Underlined text
+&#xe64f;,,strike,Striked text
+&#xe650;,,italic,Italic text
+&#xe651;,,left-aligned,Left aligned text
+&#xe652;,,centered,Centered text
+&#xe653;,,right-aligned,Right aligned text
+&#xe654;,,no-border,Cell(s) without borders
+&#xe655;,,left-border,Cell(s) with border on the left side
+&#xe656;,,top-border,Cell(s) with border on the top
+&#xe657;,,right-border,Cell(s) with border on the right side
+&#xe658;,,bottom-border,Cell(s) with border on the bottom
+&#xe659;,,outside-border,Cell(s) with borders on outsides
+&#xe65a;,,all-borders,Cell(s) with border on outsides & insides
+&#xe65b;,,area,Area chart
+&#xe65c;,,font-color,Font color
+&#xe65d;,,fill-background-color,Backgorund color
+&#xe65e;,,color,Icon is part of color mangement control
+&#xe65f;,,expand-all,Expand all
+&#xe660;,,collaps-all,Collapse all
+&#xe661;,,select-all-cells,Select all cells in a data grid
+&#xe662;,,line,Line and time series charts
+&#xe663;,,bar-rows,Bar chart
+&#xe664;,,bar-columns,Column chart
+&#xe665;,,stacked-bar-rows,Stacked bar chart
+&#xe666;,,stacked-bar-columns,Stacked column chart
+&#xe667;,,map,Geo chart
+&#xe668;,,gauge-bar,Gauge bar chart
+&#xe669;,,gauge-circle,Gauge chart
+&#xe66a;,,box-plot,Box plot chart
+&#xe66b;,,auto-sync,Syncronize automatically
+&#xe66c;,,files,Files
+&#xe66d;,,deployment,Deployment
+&#xe66e;,,conversations,Discussion(s). Trigger Collaboration panel
+&#xe66f;,,comment,Comment
+&#xe670;,,new-calculation,Add calculation (in story for tables and charts)
+&#xe671;,,send,Send message
+&#xe672;,,link,Link. To link objects.Objects are linked
+&#xe673;,,unlink,Unlink objects
+&#xe674;,,events,Event(s)
+&#xe675;,,task,Task
+&#xe676;,,pending,Action is pending (i.e. outstanding descision assignee/reviewer/approver)
+&#xe677;,,accept,"Accept action (by assignee/reviewer/approver), Action/object was accepted"
+&#xe678;,,review,Action is in review (by reviewer/approver)
+&#xe679;,,approval,Action was approved
+&#xe67a;,,reject,Action was rejected (i.e. submitted input task for approval).Reset a selection to it's default state
+&#xe67b;,,reminder,Set reminder
+&#xe67c;,,users,Users/Group of Peolple
+&#xe67d;,,person,Person.Add people
+&#xe67e;,,roles,Role(s)
+&#xe67f;,,request,Request Role
+&#xe680;,,history,History
+&#xe681;,,template,Template(s)
+&#xe682;,,options,Options arrow for menu buttons (to trigger select drop down)
+&#xe683;,,messages,Message(s)
+&#xe684;,,power,Power on/off
+&#xe685;,,activities,Activity/acctivities
+&#xe686;,,geo,"Geo, Geo dimension with hierarchies, Data Import: Data that is identified to be of geo type, Global (vs.local)"
+&#xe687;,,summary,Summary
+&#xe688;,,variance,Variance bar chart
+&#xe689;,,variance-line,Variance line chart
+&#xe68a;,,data,Data
+&#xe68b;,,scatter-plot,Scatter plot chart
+&#xe68c;,,font-color-white,Font color white
+&#xe68d;,,fill-background-color-white,Backgorund color white
+&#xe68e;,,text,Font size
+&#xe68f;,,profile,Profile
+&#xe690;,,color-picker,Color picker
+&#xe691;,,timeline,Trigger timeline panel
+&#xe692;,,import-options,Cluster multiple import options
+&#xe693;,,export-options,Cluster multiple export options
+&#xe694;,,color-white,Icon is part of color mangement control
+&#xe695;,,date,Date
+&#xe696;,,currencies,Currency/currencies
+&#xe697;,,hierarchy,Hierarchy
+&#xe698;,,number,Number(s)/numeric
+&#xe699;,,formula,"All kind of formulas, Opens calculation editor dialog, Indicates calculation, Toggle button in grid‘s text/formula bar"
+&#xe69a;,,models-imported,Imported model(s)
+&#xe69b;,,shape,"Shape, Add shape"
+&#xe69c;,,justified-aligned,Justified aligned objects
+&#xe69d;,,vertical-align-top,Vertically top aligned objects
+&#xe69e;,,vertical-align-middle,Vertically middle aligned objects
+&#xe69f;,,vertical-align-bottom,Vertically bottom aligned objects
+&#xe6a0;,,list-bulleted,Bulleted list
+&#xe6a1;,,list-numbered,Numbered list
+&#xe6a2;,,cell-reference,Cell reference on a cross table
+&#xe6a3;,,waterfall-rows,Waterfall chart
+&#xe6a4;,,driver-tree,Driver tree chart
+&#xe6a5;,,fit-to-workspace,Fit item to workspace
+&#xe6a6;,,trend,Predictive
+&#xe6a7;,,normalscreen,Minimize item to normal size
+&#xe6a8;,,beginning,"Navigate, page, scroll to beginning"
+&#xe6a9;,,end,"Navigate, page, scroll to end"
+&#xe6aa;,,donut,Donut chart
+&#xe6ab;,,combined_column_line,"Combined column & line chart, stacked combined column & line chart"
+&#xe6ac;,,drill,Drill hierarchies
+&#xe6ad;,,heat_map,Heat map chart
+&#xe6ae;,,pie,Pie chart
+&#xe6af;,,table,Table
+&#xe6b0;,,edit-options,Cluster multiple edit options
+&#xe6b1;,,password,Password
+&#xe6b2;,,stories,Story/stories
+&#xe6b3;,,allocation,Allocation
+&#xe6b4;,,bring_to_front,Bring object to front
+&#xe6b5;,,bring_forward,Bring object forward
+&#xe6b6;,,bring_to_back,Bring object to back
+&#xe6b7;,,bring_backward,Bring object backward
+&#xe6b8;,,left-aligned-object,Left aligned object
+&#xe6b9;,,vertically-aligned-object,Vertically aligned object
+&#xe6ba;,,right-aligned-object,Right aligned object
+&#xe6bb;,,top-aligned-object,Top aligned object
+&#xe6bc;,,horizontally-aligned-object,Horizontally aligned object
+&#xe6bd;,,bottom-aligned-object,Bottom aligned object
+&#xe6be;,,fill_color,Fill color
+&#xe6bf;,,bridge,Bridge chart
+&#xe6c0;,,expand_size,Expand object
+&#xe6c1;,,primary-data-left-joint,"Left joint, primary data is left table (used in data wrangling, blending)"
+&#xe6c2;,,sorted-options,Please use sort icon instead.
+&#xe6c3;,,like,"To like an object, Object is not yet liked"
+&#xe6c4;,,like-filled,Like an object
+&#xe6c5;,,rank,Rank
+&#xe6c6;,,drill_up,Drill up the hierarchy
+&#xe6c7;,,drill_down,Drill down the hierarchy
+&#xe6c8;,,filter-options,Cluster multiple filter options
+&#xe6c9;,,value-help,Value help
+&#xe6ca;,,connections,Connections
+&#xe6cb;,,reuse,Reuse object
+&#xe6cc;,,allocation-options,Cluster multiple allocation options
+&#xe6cd;,,data-changes,Data changes
+&#xe6ce;,,input-form,Input form
+&#xe6cf;,,form-options,Cluster multiple input form options
+&#xe6d0;,,archive,Archive.Package in R-Language auto suggestion
+&#xe6d1;,,line-double-axis,Dual axsis line chart
+&#xe6d2;,,bookmark,Bookmark(s)
+&#xe6d3;,,color-picker-options,Cluster muliple color picker options
+&#xe6d4;,,variable,"Variable(s), Script Variable(s) (App Design), Prompt (Story)"
+&#xe6d5;,,variable-options,Cluster multiple variable options
+&#xe6d6;,,network,Network
+&#xe6d7;,,blending,Blending
+&#xe6d8;,,feature,Feature layer (used in geo maps)
+&#xe6d9;,,marker,Marker
+&#xe6da;,,circle,Circle marker(s)
+&#xe6db;,,square,"Chloropleth layer for geo maps, Environement for R-Language auto suggestion"
+&#xe6dc;,,layers,Layer(s)
+&#xe6dd;,,polygon-tool,Polygon tool
+&#xe6de;,,show,Show object
+&#xe6df;,,hide,Hide object
+&#xe6e0;,,server,Server
+&#xe6e1;,,drill_leaves,"Drill to leafs (planning), Expand next level (BI)"
+&#xe6e2;,,minus,"Zoom out, Properties (in a Model)"
+&#xe6e3;,,launch,Save & roll out/Launch
+&#xe6e4;,,base_map,Map
+&#xe6e5;,,organization,Organization perspective
+&#xe6e6;,,generic,Generic perspective
+&#xe6e7;,,cost_pool,Cost pool peperspective
+&#xe6e8;,,account,Account perspective
+&#xe6e9;,,time,"Time perspective, Time"
+&#xe6ea;,,value-driver-tree,Value driver tree chart
+&#xe6eb;,,split-view,Split view
+&#xe6ec;,,single-view,Single view
+&#xe6ed;,,hierarchy_deselected,"Deselect hierarchy, hierarchy is deselected"
+&#xe6ee;,,location-pin,"Marked location on geo-map, Target (Allocation)"
+&#xe6ef;,,banknote,Source (Allocations)
+&#xe6f0;,,eraser,Clear object
+&#xe6f1;,,cross_table,Cross table
+&#xe6f2;,,ibcs_table,IBCS table
+&#xe6f3;,,explore_view,Explore view
+&#xe6f4;,,icicle,Icicle chart
+&#xe6f5;,,monitor,Monitor data
+&#xe6f6;,,flip,Flip objects
+&#xe6f7;,,located,"Location, Geo coordinate dimension, Object is located (i.e. chart tile on a big canvas), Local (vs. global)"
+&#xe6f8;,,cloud,"Cloud, tag cloud chart"
+&#xe6f9;,,tree-map,Tree map chart
+&#xe6fa;,,marimekko,Marimekko chart
+&#xe6fb;,,bubble,Bubble chart
+&#xe6fc;,,radar,Radar chart
+&#xe6fd;,,combined_bar_line,"Combined bar & line chart, stacked combined bar & line chart"
+&#xe6fe;,,measure,Measure(s)
+&#xe6ff;,,star,"Highlight as favorite, rate an object"
+&#xe700;,,file,File
+&#xe701;,,code,Code
+&#xe702;,,light-bulb,"Idea(s), Smart insights (predictive)"
+&#xe703;,,map_geo,Heat map visualization on a geo map
+&#xe704;,,boardroom,Digital Boardroom
+&#xe705;,,agenda,Agenda for a boardroom presentation
+&#xe706;,,add_row_column,Add Row/Column (choose row or column in drop down menu)
+&#xe707;,,remove_row_column,Remove Row/Column (choose row or column in drop down menu)
+&#xe708;,,merge,Generic icon for merge feature (choose merge or unmerge cells in drop down menu
+&#xe709;,,reference-line,Reference Line for Charts
+&#xe70a;,,play,Play video
+&#xe70b;,,explore,Explore an object (i.e. user‘s data)
+&#xe70c;,,color-transparent,"Color transparent (set color, display selected color)"
+&#xe70d;,,scatter-bubble,Scatter bubble chart
+&#xe70e;,,font,"Font type, toggle button in grid‘s text/formula bar"
+&#xe70f;,,extract,Extract values/characters from cell(s)
+&#xe710;,,bar-width,Bar width
+&#xe711;,,broken-scale,Indicates the scale of a chart is broken (icon is for state not action)
+&#xe712;,,vector,Vector path
+&#xe713;,,zoom-in,Zoom in
+&#xe714;,,primary-data,Primary data (belongs to blending)
+&#xe715;,,all-data,"Full outer joint, all data from both tables (used in blending)"
+&#xe716;,,intersecting-data,"Inner joint, only rows and cols that match (used in blending)"
+&#xe717;,,input-control,Input-control
+&#xe718;,,move-control-to-bar,Move control back to bar
+&#xe719;,,time-series,Time series chart
+&#xe71a;,,lock-cell,Lock cell
+&#xe71b;,,clear-filter,Clear filter (used in Geo toolbar)
+&#xe71c;,,new-filter,"New filter (this icon should be only used for the filter bar, other then that please use generel filter icon)"
+&#xe71d;,,step,Allocation step
+&#xe71e;,,spread,Spreading (allocation)
+&#xe71f;,,distribute,Distribution (allocation)
+&#xe720;,,break-axis,Break axis on a chart
+&#xe721;,,group,"Group elements (i.e. objects on a canvas, nodes in VDT)"
+&#xe722;,,calculate,"Calculation, calculation node type in VDT"
+&#xe723;,,growth-rate,"Growth rate, year over year node type in VDT"
+&#xe724;,,customise,"Customize, custome logic node type in VDT"
+&#xe725;,,union,Union node in VDT (it creates an aggregate of two or more nodes)
+&#xe726;,,flip-vertically,Flip raised axis
+&#xe727;,,ungroup,Unroup elements (i.e. objects on a canvas)
+&#xe728;,,transform,Transform icon in transformation bar
+&#xe729;,,cut,"Cut selected objects (i.e. text), trim values to a certain length"
+&#xe72a;,,fill-up,Fill up values/characters to the same lenght in cell(s)/row (i.e. by adding n “0”s at the end)
+&#xe72b;,,convert,Convert cell/row format (i.e. numeric to text)
+&#xe72c;,,replace,Replace cells/row with other cells/row
+&#xe72d;,,move,Move items (i.e. VDT: Move node to an other lane)
+&#xe72e;,,external-logic,Special node type in VDT
+&#xe72f;,,online-meeting,Start Online Meeting (i.e. in Digital Boardroom)
+&#xe730;,,phone,"Hang up, end online meeting, voice call"
+&#xe731;,,hand,Virtual control in online meeting on a touch device
+&#xe732;,,tiles,Tiles view in repository list
+&#xe733;,,list,List view in repository list
+&#xe734;,,item-arrangement,Item arrangement in repository list
+&#xe735;,,outline-fill,Icon is part of color mangement control
+&#xe736;,,outline,Icon is part of color mangement control
+&#xe737;,,slash,Icon is part of color mangement control
+&#xe738;,,cell-height,To edit heigth of cell
+&#xe739;,,cell-width,To edit width of cell
+&#xe73a;,,rotate-right-90,To rotate an object 90 degree clockwise
+&#xe73b;,,rotate-left-90,To rotate an object 90 degree counterclockwise
+&#xe73c;,,rotate-180,To rotate an object 180 degree
+&#xe73d;,,scale,"To scale an object, to trigger measure scale panel"
+&#xe73e;,,inside-borders,Cell(s) with inside borders
+&#xe73f;,,inside-horizontal-border,Cell(s) with inside horizontal border
+&#xe740;,,inside-vertical-border,Cell(s) with inside vertical border
+&#xe741;,,diagonal-down-border,Cell(s) with diagonal down border
+&#xe742;,,diagonal-up-border,Cell(s) with diagonal up border
+&#xe743;,,sort,Sort objects
+&#xe744;,,sort-ascending,"Sort ascending (i.e. in dimension a crosstab), Object is sorted ascending (i.e. in dimension a crosstab)"
+&#xe745;,,sort-descending,"Sort descending (i.e. dimension a crosstab), Object is sorted descending (i.e. dimension a crosstab)"
+&#xe746;,,route,Route layer for geo maps
+&#xe747;,,open-new-window,"Open an object in a new window, Navigate to..."
+,&#xe748;,exclude,"Remove objects/selections/settings, which can be easily restored (i.e. item from list, token), Exclude selected item(s) from visualization and don't take it's value into account for dissaggregation (i.e. exclude for data filter points in charts, crosstab, and geomap)"
+&#xe749;,,edit-axis,Edit chart axis
+&#xe74a;,,discover,Machine discovery (predictive workflow)
+&#xe74b;,,fireworks,Keyinfluencer (predictive workflow)
+&#xe74c;,,outlier,Outlier (predictive workflow)
+&#xe74d;,,paste,Past (counter part for copy symbol)
+&#xe74e;,,dynamic-token,Dynamic tokens (i.e. dynamic text token in Story)
+&#xe74f;,,root-folder,System root folder in file repository
+&#xe750;,,bars-overlapping-1,Accessing versions in Story: Show versions as upper bar overlapping
+&#xe751;,,bars-overlapping-2,Accessing versions in Story: Show versions as bottom bar overlapping
+&#xe752;,,bar-with-pointer,Accessing versions in Story: Show versions as bar with pointer
+&#xe753;,,bars-side-by-side,Accessing versions in Story: Show versions as bars side by side
+&#xe754;,,process,Hamburger menu point Process (shell for Allocation and Value Driver Tree)
+&#xe755;,,simulate,Simulate (context menu and side panel)
+&#xe756;,,annotation,Annotation mode in online meeting
+&#xe757;,,error-bar,Error bar in charts
+&#xe758;,,portrait-format,Portrait page format
+&#xe759;,,landscape-format,Landscape page format
+&#xe75a;,,arrorw-down,Empty states circles: drop area
+&#xe74e;,,turtle,Dimensions with long loading time in charts
+&#xe75c;,,connection,Linked analysis panel icon
+&#xe75d;,,tooltip,Add tooltip (used in Stories for chart widget)
+&#xe75e;,,cluster,Cluster geo-points on map
+&#xe75f;,,new-comment,Add comment in widget-/data point toolbar in Stories
+&#xe760;,,delta-previous-year,Delta value previous year for VDT nodes
+&#xe761;,,delta-first-year,Delta value first year for VDT nodes
+&#xe762;,,rows,Rows
+&#xe763;,,SQL,Data integration: SQL query
+&#xe764;,,r-language,Predictive: r-language
+&#xe765;,,new-member,Add member (on an ad-hoc basis for table in story)
+&#xe766;,,member-order,Change member order (on an ad-hoc basis for table in story)
+&#xe767;,,microphone,"Open voice recognition/speech command in DBR, voice in call (i.e. in online meeting)"
+&#xe768;,,edge,Resize indication on widgets/tiles (i.e. DBR)
+&#xe769;,,percentage,Change chart lables from numeric to percentage (in Stories)
+&#xe76a;,,omega,Open symbol dialog (in Stories)
+&#xe76b;,,support,Call/contact support (i.e. in help center)
+&#xe76c;,,mobile,Indicates file is mobile enabled (i.e responsive stories)
+&#xe76d;,,devices,Show preview for device (i.e responsive stories)
+&#xe76e;,,open,"Open/Insert (i.e. open file in repo, insert item in story, or script editor)"
+&#xe76f;,,multi_selection,Multi selection (i.e. in mobile)
+&#xe770;,,transfer_briefcase,Transfer system ownership/ change system owner
+&#xe771;,,terminal,Script editor/console (i.e. in predictive)
+&#xe772;,,layout,Layout (i.e. layout panel for responsive stories)
+&#xe773;,,device-orientation,Device orientation in responsive pages (Stories)
+&#xe774;,,exception-data,"Exception joint, right table substracts from left table (used in blending)"
+&#xe775;,,function,Function for variable (i.e. R visualization script editor > auto suggestion)
+&#xe776;,,analytic-hub,Analytics hub
+&#xe777;,,book,"File Repo Store, i.e. BOC Content Delivery Service"
+&#xe778;,,box-no-border,Widget(s) without borders
+&#xe779;,,box-left-border,Widget(s) with border on the left side
+&#xe77a;,,box-top-border,Widget(s) with border on the top
+&#xe77b;,,box-right-border,Widget(s) with border on the right side
+&#xe77c;,,box-bottom-border,Widget(s) with border on the bottom
+&#xe77d;,,box-top-bottom-border,Widget(s) with border on the top and bottom
+&#xe77e;,,box-left-right-border,Widget(s) with border on the left and right sides
+&#xe77f;,,box-outside-border,Widget(s) with borders on outsides
+&#xe780;,,leave,Leave a conversation
+&#xe781;,,top-and-bottom-border,Cell(s) with border on the top and bottom
+&#xe782;,,twitter,Twitter
+&#xe783;,,feed,RSS Feed
+&#xe784;,,store,Store
+&#xe785;,,library,"Store library side panel (in DBR), Control library (i.e. in element side panel within the App Design)"
+&#xe786;,,books,Books
+&#xe787;,,threshold-good,Threshold good
+&#xe788;,,threshold-warning,Threshold warning
+&#xe789;,,threshold-alert,Threshold alert (error)
+&#xe78a;,,text-abc,Text
+&#xe78b;,,numbers-123,Numbers
+&#xe78c;,,assign,Set [dimentsion] value for selected member to [X] (Wranglling)
+&#xe78d;,,time-calculation,Time calcuation (i.e. in Story)
+&#xe78e;,,edit-calculation,Edit calculation (i.e. in Story)
+&#xe78f;,,same_elements,vector for R-Language auto suggestion
+&#xe790;,,different_elements,List for R-Language auto suggestion
+&#xe791;,,conditional_formatting,Conditional formatting
+&#xe792;,,center,Move object to center (i.e. node in VDT)
+&#xe793;,,no-edit,"Read-only cell in planning (to prevent user from edit, but the value is not locked and can receive updates from referring cells)"
+&#xe794;,,lightning,Auto-complete (i.e. in VDT auto-complete branch
+&#xe795;,,sum,Change aggregation type (planning)
+&#xe796;,,variance-bar,Varianc bar chart
+&#xe797;,,percentage-pin,Percentage pin chart
+&#xe798;,,alias,"File alias, version alias (i.e. used in planning for version management)"
+&#xe799;,,new-table,Add table (used in Query Builder to add/load related tables)
+&#xe79a;,,static-filter,"Static set/ filter (used in Query Builder), Sets items are exposed as other meta data within the Universe outline and behave as filters"
+&#xe79b;,,temporary-filter,"Temporary set/ filter (used in Query Builder), Sets items are exposed as other meta data within the Universe outline and behave as filters"
+&#xe79c;,,text-wrap,Wrap text automatically (data in the cell wraps to fit the column width)
+&#xe79d;,,linked-model,Linked model
+&#xe79e;,,linked-variable,Linked variable
+&#xe79f;,,histogram,Histogram chart
+&#xe7a0;,,binoculars,Predictive
+&#xe7a1;,,new-model,New model
+&#xe7a2;,,working-model,Working model
+&#xe7a3;,,data-set,Data set
+&#xe7a4;,,wrangling,Wrangling
+&#xe7a5;,,edit-wrangling,Edit wrangling
+&#xe7a6;,,edit-table,Edit table (edit query)
+&#xe7a7;,,mapping,Mapping
+&#xe7a8;,,edit-mapping,Edit mapping
+&#xe7a9;,,hierarchy-parent,Parent (in a hierarchy)
+&#xe7aa;,,hierarchy-child,Child (in a hierarchy)
+&#xe7ab;,,hierarchy-grand-child,Grand child (in a hierarchy)
+&#xe7ac;,,slim-arrow-down,"Slim arrow in drop down field to trigger drop down, Options' arrow for menu buttons to trigger select drop down"
+&#xe7ad;,,slim-arrow-up,Slim arrow up
+&#xe7ae;,,slim-arrow-left,Slim arrow left
+&#xe7af;,,slim-arrow-right,Slim arrow right
+&#xe7b0;,,exit-save,–
+&#xe7b1;,,planning-sequence,Planning Sequence
+&#xe7b2;,,lock-drill,Lock ability for cell
+&#xe7b3;,,screenshot,Screenshot
+&#xe7b4;,,resize-corner,Resize corner for resizable controls
+&#xe7b5;,,add-difference-marker,Add difference marker (charting)
+&#xe7b6;,,dimension-member,Dimension member
+&#xe7b7;,,dimension-filter,Dimension filter
+&#xe7b8;,,dimension-swap,Dimension swap
+&#xe7b9;,,measure-filter,Measure filter
+&#xe7ba;,,measure-swap,Measure swap
+&#xe7bb;,,calculation-swap,Calculation swap
+&#xe7bc;,,advanced-filter,Advanced filter
+&#xe7bd;,,inspection,"Compare note type (Pred Pro), In Review status (Calendar: Task status)"
+&#xe7be;,,new-note,New note (Pred Pro)
+&#xe7bf;,,tree,Classification node type (Pred Pro)
+&#xe7c0;,,clustering,Clustering node type (Pred Pro)
+&#xe7c1;,,regression,Regression node type (Pred Pro)
+&#xe7c2;,,multi_selection_2,Multi selection (mobile)
+&#xe7c3;,,play-process,"Play process, Start Model training (Pred Pro)"
+&#xe7c4;,,stop-process,"Stop process, End Model training (Pred Pro)"
+&#xe7c5;,,editor-comment,Comment symbol in editor (i.e. App Design)
+&#xe7c6;,,radiobutton,Add radiobutton (i.e. App Design)
+&#xe7c7;,,checkbox,Add checkbox (i.e. App Design)
+&#xe7c8;,,button,Add button (i.e. App Design)
+&#xe7c9;,,dialog,Add dialog (i.e. App Design)
+&#xe7ca;,,app-outline,Element side panel (i.e. App Design)
+&#xe7cb;,,dropdown,Dropdown (i.e. App Design)
+&#xe7cc;,,global-variables,Global variables (i.e. App Design)
+&#xe7cd;,,data-save,Save data (i.e. App Design)
+&#xe7ce;,,max-screen,
+&#xe7cf;,,small,
+&#xe7d0;,,medium,
+&#xe7d1;,,large,
+&#xe7d2;,,duster-topics,Duster topics (Events)
+&#xe7d3,n,otes,Meeting notes (Events)
+&#xe7d4;,,calendar-today,Go to today (Events)
+&#xe7d5;,,layout-sorting,Sort layout (Events)
+&#xe7d6;,,full-name,Display full name (Events)
+&#xe7d7;,,busy-indicator,In progress state (Events)
+&#xe7d8;,,reject-assignee,Reject assignee (Events)
+&#xe7d9;,,assignees-done,Assignees done (Events)
+&#xe7da;,,event-process,–
+&#xe7db;,,new-member-edit,Edit new member
+&#xe7dc;,,edit-member,Edit member (ad-hoc member on table in story)
+&#xe7dd;,,copy-data,Copy data
+&#xe7de;,,no-assignee,No assignee(s) given (Calendar: Task status)
+&#xe7df;,,tri-state,Tri-state for checkboxes
+&#xe7e0;,,distribute-spacing-vertically,Distribute spacing vertically (charts)
+&#xe7e1;,,distribute-spacing-horizontally,Distribute spacing horizontally (charts)
+&#xe7e2;,,unique,Unique key (data wrangling)
+&#xe7e3;,,close-up,Show together' feature (data wrangling)
+&#xe7e4;,,number-decimals,Column type numbers with decimals (data wrangling)
+&#xe7e5;,,boolean,Column type boolean (data wrangling)
+&#xe7e6;,,translation,Translation space (hamburger menu)
+&#xe7e7;,,dislike,Dislike an object
+&#xe7e8;,,roambi,Roambi logo
+&#xe7e9;,,sample-content,Sample content in content lib (Files)
+&#xe7ea;,,business-content,Business content in content lib (Files)
+&#xe7eb;,,third-party-content,Third party content in content lib (Files)
+&#xe7ec;,,team-folder,Folder for team content (Files)
+&#xe7ed;,,auto-load-filter,–
+&#xe7ee,l,ive-model,Live model(s)
+&#xe7ef;,,comment-indicator,Comment indicator for comment placed on one of the childreen of this data point (DTC in Story)
+&#xe7f0;,,comment-indicator-filled,Comment indicator for comment on this data point (DTC in Story)
+&#xe7f1;,,draft,Task draft state (calendar)
+&#xe7f2;,,list-numbered-RTL,Numbered list #RTL
+&#xe7f3;,,multi_selection-RTL,Multi selection (i.e. in mobile) #RTL
+&#xe7f4;,,copy-data-2,Copy data across models
+&#xe7f5;,,list-hierarchy,Overview of the currently active application (i.e. App Design)
+&#xe7f6;,,folder-function,Container for reusable script functions (i.e. App Design)
+&#xe7f7;,,canvas,"App Canvas (i.e. empty page in Story, App Design)"
+&#xe7f8;,,partially-completed,Task status: partially completed (Calendar)
+&#xe7f9;,,stop-watch,Task status: overdue (Calendar)
+&#xe7fa;,,date-time,"Timestamp (Wrangling, Query Builder)"
+&#xe7fb;,,apply-down,Selection of multiple items in hierarchy (DBR topic filters)
+&#xe7fc;,,unpivot-transformation,Unpivot transformation (Wrangling)
+&#xe7fd;,,sankey-chart,Sankey chart (Stories)
+&#xe7fe;,,performance,performance (Modeler)
+&#xe7ff;,,google-sheets,Google Sheets (file upload)
+&#xe800;,,bpc-planning-sequence,BPC Planning Sequence
+&#xe801;,,ruum,Ruum (Boardroom)
+&#xe802;,,range-slider,Range Slider (App Building)
+&#xe803;,,slider,Slider (App Building)
+&#xe804;,,backspace,"backspace (Digital Boardroom, Keypad)"
+&#xe805;,,time-entry-request,Time Entry Request (Export Model as File Dialog)
+&#xe807;,,tab-container,Tab Container (App Building)
+&#xe808;,,panel-container,Panel Container (App Building)
+&#xe809;,,open-connectors,Open Connectors (Modeler)
+&#xe810;,,moon,Moon (DWC)
+&#xe811;,,snowflake,temperature-cold
+&#xe812;,,live-table,Live Table (DWC)
+&#xe813;,,relationship-diagram,Relationship Diagram (DWC)
+&#xe814;,,fire,Temperature Hot (DWC)
+&#xe815;,,table-view,Table View (DWC)
+&#xe816;,,primary-key,primary key (DWC)
+&#xe817;,,upload-to-cloud,Upload to Cloud (DWC)
+&#xe818;,,data-warehouse,Data Warehouse (DWC)
+&#xe819;,,data-space-management,Data Space Management (DWC)
+&#xe81a;,,table-builder,"Table Builder, Data Builder (DWC)"
+&#xe81b;,,fact-view,"Fact View, Fact Table (DWC)"
+&#xe81c;,,new-view,New View (DWC)
+&#xe81d;,,live-data-set,Live Dataset
+&#xe81e;,,temperature-cold,Temperature Cold (DWC)
+&#xe81f;,,temperature-hot,Temperature Hot (DWC)
+&#xe820;,,feedback,"Feedback, Qualtrics"
+&#xe821;,,lock-archive,Business Library
+&#xe822;,,carousel,"carousel, Application Designer"
+&#xe823;,,tracking,"Follow, Tracking, Monitor, Watch Follow Data Point"
+&#xe824;,,toggle-switch,"Toggle Switch, Application Designer"
+&#xe825;,,responsive-panel,"Responsive Panel, Responsive Widget (App Building)"
+&#xe826;,,move-top,"Move to top of list (DWC), Custom Sorting (SAC)"
+&#xe827;,,move-bottom,"Move to bottom of list (DWC), Custom Sorting (SAC)"
+&#xe828;,,association,Association (DWC)
+&#xe829;,,authorization-scenario,Authorization Scenario (DWC)
+&#xe82a;,,consumption-model,Consumption Model (DWC)
+&#xe82b;,,fact-model,Fact Model (DWC)
+&#xe82c;,,keyboard,keyboard for Search to Insight Voice (SAC)
+&#xe82d;,,data-flow,"Data Flow in DWC, appears in file repo of SAC (SAC & DWC)"
+&#xe82e;,,watchlist-add,"Watchlist, watch views, add to watchlist (SAC mobile)"
+&#xe82f;,,watchlist,"Watchlist, watch views, (SAC mobile)"
+&#xe830;,,chart-table,"chart, table, views, view"
+&#xe831;,,explore-table,"explore, table, data analyzer"
+&#xe832;,,business-card,"Business Card, Business Layer (DWC)"
+&#xe833;,,permission,"Permission, Authorization (DWC)"
+&#xe834;,,diamond,"threshold, diamond (SAC)"
+&#xe835;,,bullet-chart,bullet chart
+&#xe836;,,folder-search,folder search
+&#xe837;,,catalog,"catalog, model dialog, app switcher"
+&#xe838;,,retail-store-manager,"DWC, modules shell"
+&#xe839;,,retail-store-share,"DWC, modules shell"
