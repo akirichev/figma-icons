@@ -1,4 +1,4 @@
-short_name,character,unicode,categories,keyword
+short_name,character,unicode,categories,search_keyword
 accidental-leave,,/e000,medical,"accidental,leave,medical,cross,plus,emergency,hospital"
 account,,/e001,people,"user,menu,settings,person,account"
 wrench,,/e002,actions,"wrench,control,configuration,settings,tool"
