@@ -466,7 +466,7 @@ unicode,character,short_name, description
 &#xe7d0;,,medium,
 &#xe7d1;,,large,
 &#xe7d2;,,duster-topics,Duster topics (Events)
-&#xe7d3,n,otes,Meeting notes (Events)
+&#xe7d3;,,notes,Meeting notes (Events)
 &#xe7d4;,,calendar-today,Go to today (Events)
 &#xe7d5;,,layout-sorting,Sort layout (Events)
 &#xe7d6;,,full-name,Display full name (Events)
@@ -493,7 +493,7 @@ unicode,character,short_name, description
 &#xe7eb;,,third-party-content,Third party content in content lib (Files)
 &#xe7ec;,,team-folder,Folder for team content (Files)
 &#xe7ed;,,auto-load-filter,–
-&#xe7ee,l,ive-model,Live model(s)
+&#xe7ee;,,live-model,Live model(s)
 &#xe7ef;,,comment-indicator,Comment indicator for comment placed on one of the childreen of this data point (DTC in Story)
 &#xe7f0;,,comment-indicator-filled,Comment indicator for comment on this data point (DTC in Story)
 &#xe7f1;,,draft,Task draft state (calendar)
