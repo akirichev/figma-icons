@@ -1,4 +1,4 @@
-symbol,unicode,short_name,search_keyword
+character,unicode,short_name,search_keyword
 ,0xe000,technicalsystem,"system,hexagon"
 ,0xe001,systemjava,"system,java"
 ,0xe002,systemabap,"abap,system"
