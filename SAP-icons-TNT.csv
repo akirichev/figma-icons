@@ -1,4 +1,4 @@
-short_name,character,unicode,category,search_keyword
+short_name,character,unicode,categories,search_keyword
 technicalsystem,,/e000,technical,"system,hexagon"
 systemjava,,/e001,technical,"system,java"
 systemabap,,/e002,technical,"abap,system"
