@@ -339,3 +339,6 @@ project-definition-2,,0xe158
 asterisk,,0xe159
 equal,,0xe15a
 not-equal,,0xe15b
+fixed-cell,,0xe15d
+partially-fixed-cell,,0xe15d
+stripes-pattern,,0xe15e
