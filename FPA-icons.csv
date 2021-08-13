@@ -563,3 +563,7 @@ unicode,character,short_name, description
 &#xe838;,,retail-store-manager,"DWC, modules shell"
 &#xe839;,,retail-store-share,"DWC, modules shell"
 &#xe83a;,,linked-analysis-tree, "linked, analysis, tree"
+&#xe83b;,,employee-rejections, "Deactivation button for Secturity/Users in SAC and DWC"
+&#xe83c;,,employee-approvals, "Activation button for Secturity/Users in SAC and DWC"
+&#xe83d;,,color-fill-square, "fori shape for color"
+&#xe83e;,,color-white-square, "fori shape for white color"
