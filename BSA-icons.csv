@@ -342,3 +342,6 @@ not-equal,,0xe15b,"actions,time,table,text"
 fixed-cell,,0xe15d,"actions,things,objects,status"
 partially-fixed-cell,,0xe15d,"actions,things,objects,status"
 stripes-pattern,,0xe15e,
+feature-dictionary,,0xe15f,
+variant-planning,,0xe160,
+requirement-model,,0xe161,
