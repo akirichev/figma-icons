@@ -654,3 +654,6 @@ clear-all,,/e28C,"actions,tables","clear,clear-all,square,x,delete,remove,che
 command-line-interfaces,,/e28D,arrows,"command,command-line,interfaces,code,develop,source,source-code,write,syntax,programming,technical"
 sum,,/e28E,tables,"sigma,sum,summation,addition,total,aggregate,amount,covariance,covariance matrix"
 qr-code,,/e28F,objects,"qr,qrcode,qr-code,scan,code"
+space-navigation,,e290,places,"space, navigation, circle, shape, line"
+in-progress,,e291,status,"in process, status, working, current, on-going, clock, Time, Square"
+not-editable,,e292,places,"not editable, pencil, status, editable false, crossed-out"
