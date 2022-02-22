@@ -579,5 +579,5 @@ unicode,character,short_name, description
 &#xe848;,,intelligent-lookup, "intelligent lookup"
 &#xe849;,,requirement-diagram, "diagram, chart, requirement"
 &#xe84a;,,boolean-circles, "circles, boolean"
-&#xe84b;,,uuid,,
-&#xe84c;,,binary,,
+&#xe84b;,,uuid
+&#xe84c;,,binary
