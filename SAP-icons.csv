@@ -643,6 +643,7 @@ validate,,/e280,"status,action","message,check,validate,security,status,appro
 keyboard-and-mouse,,/e281,"objects,action","mouse,desktop,click,keyboard,compact,condensed,controls,devices"
 touch,,/e282,"objects,action","finger,mobile,press,touch,cozy,comfortable,controls,devices"
 expand-all,,/e283,arrows,"expand,all,open,open all,expand all,arrow,table,tree,list"
+collapse-all,,/e284,arrows,"expand,all,open,open all,expand all,arrow,table,tree,list"
 combine,,/e285,arrows,"combine,merge,arrow-right,combine-split,runtime authoring,settings"
 split,,/e286,arrows,"split,arrows-right,user,runtime authoring,settings"
 megamenu,,/e287,arrows,"navigation,arrows-down,arrow-down,down,shell"
