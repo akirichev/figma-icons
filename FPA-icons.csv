@@ -1,591 +1,591 @@
-unicode,character,short_name, description
-&#xe600;,,menu,Overall system menu in the application shell
-&#xe601;,,menu-options,–
-&#xe602;,,notifications,System notifications
-&#xe603;,,settings,Global system settings
-&#xe604;,,preferences,Object preferences
-&#xe605;,,preferences-options,Cluster multiple preferences options
-&#xe606;,,reload,Reload/refresh/update an area/objetct
-&#xe607;,,search,Search at a global level/within a control
-&#xe608;,,fullscreen,Go fullscreen
-&#xe609;,,new,Create/add an new object
-&#xe60a;,,new-options,Cluster multiple create/add options
-&#xe60b;,,delete,Permanent deletion of persisted objects and data (i.e. delete a Story)
-&#xe60c;,,delete-options,Cluster multiple delete options
-&#xe60d;,,copy,Copy an object
-&#xe60e;,,copy-options,Cluster multiple copy options
-&#xe60f;,,edit,Edit an object
-&#xe610;,,folder,Grouping of multiple objects
-&#xe611;,,print,Print system data
-&#xe612;,,save,Save an object
-&#xe613;,,save-options,Cluster multiple save options
-&#xe614;,,completed,Checkmark for checkboxes. Accomplished status (Calendar: Task status)
-&#xe615;,,cancel,Cancel/decline actions and workflows. Close a control (i.e. close message strip)
-&#xe616;,,undo,Undo an action
-&#xe617;,,redo,Redo an action
-&#xe618;,,import,Bringing data (external format) into your system (locally)
-&#xe619;,,export,Packing data/ exporting an object to external formats to continue to use it with other tools/ products
-&#xe61a;,,calendar,Trigger a calendar (i.e. to select a date)
-&#xe61b;,,pin,"Pin an object somewhere (i.e. home sreen, libary)"
-&#xe61c;,,pin-options,Cluster multiple pin options
-&#xe61d;,,attachment,"Attach an object (i.e. to a discussion, event, task)"
-&#xe61e;,,attachment-options,Cluster multiple attach options
-&#xe61f;,,share,"Share an object (to users within the app, externally to everyone)"
-&#xe620;,,publish,"Publish an object to a broader audience (i.e. making a private version of a Data Model public to be accessible by all users, or publishing a Story from Orca to Analytics Hub to be listed there as well)"
-&#xe621;,,security,Secure an object. Object is secured
-&#xe622;,,public,Object is not secured
-&#xe623;,,photo,Take a picture
-&#xe624;,,up,"Navigate, page, scroll up, collapse tokens"
-&#xe625;,,down,"Navigate, page, scroll down, expand tokens"
-&#xe626;,,previous,"Navigate, page, scroll backwards"
-&#xe627;,,next,"Navigate, page, scroll forwards"
-&#xe628;,,ascending,Column of repository list is sorted ascending
-&#xe629;,,descending,Column of repository list is sorted descending. Hierarchical lists to expand/collapse leaf nodes
-&#xe62a;,,truncation,Truncate toolbar buttons and move them into one select drop down
-&#xe62b;,,truncation-options,–
-&#xe62c;,,star-filled,"Shows object is highlighted as favorite, or indicates it‘s rating"
-&#xe62d;,,upload,Copy content from me to electronic location
-&#xe62e;,,download,Copy content from electronic location to me
-&#xe62f;,,grip-vertical,Indicate object can be resized
-&#xe630;,,grip-horizontal,Indicate object can be resized
-&#xe631;,,designer,Trigger styling panel
-&#xe632;,,properties,Trigger properties
-&#xe633;,,preview,Picture.Trigger preview panel
-&#xe634;,,details,Trigger Details panel
-&#xe635;,,charts,Charts
-&#xe636;,,success,Success message/notification
-&#xe637;,,warning,Warning message/notification
-&#xe638;,,alert,Alert message/notification (error)
-&#xe639;,,info,Information message/notification/text
-&#xe63a;,,help,Trigger global help
-&#xe63b;,,smart-help,Trigger context sensitive help
-&#xe63c;,,home,Home screen
-&#xe63d;,,dashboards,Dashboard(s)
-&#xe63e;,,models,"Models(s), Model wizard (in a Story)"
-&#xe63f;,,perspectives,Dimension(s)
-&#xe640;,,reports,Report(s)
-&#xe641;,,filter,Set filter. Objects are filtered
-&#xe642;,,tag,"Tag an object, Account attributes (i.e. Story builder panel), Function argument for R visualization script editor > auto suggestion, Argument(s) of a Script Function (i.e. App Design)"
-&#xe643;,,kpi,Set Key performance Indicator (KPI)
-&#xe644;,,style,"Theme, apply theme"
-&#xe645;,,contextual-chart,Add contextual chart (used in Stories for geo widget)
-&#xe646;,,columns,Columns
-&#xe647;,,zoom-out,Zoom out on a chart
-&#xe648;,,versions,Categories & Versions
-&#xe649;,,versions-options,Cluster multiple categories & versions options
-&#xe64a;,,merge-cells,Merge cells
-&#xe64b;,,unmerge-cells,Unmerge cells
-&#xe64c;,,show-hide-grid-dimension,Show/hide perspectives on grid (report)
-&#xe64d;,,bold,Bold text
-&#xe64e;,,underline,Underlined text
-&#xe64f;,,strike,Striked text
-&#xe650;,,italic,Italic text
-&#xe651;,,left-aligned,Left aligned text
-&#xe652;,,centered,Centered text
-&#xe653;,,right-aligned,Right aligned text
-&#xe654;,,no-border,Cell(s) without borders
-&#xe655;,,left-border,Cell(s) with border on the left side
-&#xe656;,,top-border,Cell(s) with border on the top
-&#xe657;,,right-border,Cell(s) with border on the right side
-&#xe658;,,bottom-border,Cell(s) with border on the bottom
-&#xe659;,,outside-border,Cell(s) with borders on outsides
-&#xe65a;,,all-borders,Cell(s) with border on outsides & insides
-&#xe65b;,,area,Area chart
-&#xe65c;,,font-color,Font color
-&#xe65d;,,fill-background-color,Backgorund color
-&#xe65e;,,color,Icon is part of color mangement control
-&#xe65f;,,expand-all,Expand all
-&#xe660;,,collaps-all,Collapse all
-&#xe661;,,select-all-cells,Select all cells in a data grid
-&#xe662;,,line,Line and time series charts
-&#xe663;,,bar-rows,Bar chart
-&#xe664;,,bar-columns,Column chart
-&#xe665;,,stacked-bar-rows,Stacked bar chart
-&#xe666;,,stacked-bar-columns,Stacked column chart
-&#xe667;,,map,Geo chart
-&#xe668;,,gauge-bar,Gauge bar chart
-&#xe669;,,gauge-circle,Gauge chart
-&#xe66a;,,box-plot,Box plot chart
-&#xe66b;,,auto-sync,Syncronize automatically
-&#xe66c;,,files,Files
-&#xe66d;,,deployment,Deployment
-&#xe66e;,,conversations,Discussion(s). Trigger Collaboration panel
-&#xe66f;,,comment,Comment
-&#xe670;,,new-calculation,Add calculation (in story for tables and charts)
-&#xe671;,,send,Send message
-&#xe672;,,link,Link. To link objects.Objects are linked
-&#xe673;,,unlink,Unlink objects
-&#xe674;,,events,Event(s)
-&#xe675;,,task,Task
-&#xe676;,,pending,Action is pending (i.e. outstanding descision assignee/reviewer/approver)
-&#xe677;,,accept,"Accept action (by assignee/reviewer/approver), Action/object was accepted"
-&#xe678;,,review,Action is in review (by reviewer/approver)
-&#xe679;,,approval,Action was approved
-&#xe67a;,,reject,Action was rejected (i.e. submitted input task for approval).Reset a selection to it's default state
-&#xe67b;,,reminder,Set reminder
-&#xe67c;,,users,Users/Group of Peolple
-&#xe67d;,,person,Person.Add people
-&#xe67e;,,roles,Role(s)
-&#xe67f;,,request,Request Role
-&#xe680;,,history,History
-&#xe681;,,template,Template(s)
-&#xe682;,,options,Options arrow for menu buttons (to trigger select drop down)
-&#xe683;,,messages,Message(s)
-&#xe684;,,power,Power on/off
-&#xe685;,,activities,Activity/acctivities
-&#xe686;,,geo,"Geo, Geo dimension with hierarchies, Data Import: Data that is identified to be of geo type, Global (vs.local)"
-&#xe687;,,summary,Summary
-&#xe688;,,variance,Variance bar chart
-&#xe689;,,variance-line,Variance line chart
-&#xe68a;,,data,Data
-&#xe68b;,,scatter-plot,Scatter plot chart
-&#xe68c;,,font-color-white,Font color white
-&#xe68d;,,fill-background-color-white,Backgorund color white
-&#xe68e;,,text,Font size
-&#xe68f;,,profile,Profile
-&#xe690;,,color-picker,Color picker
-&#xe691;,,timeline,Trigger timeline panel
-&#xe692;,,import-options,Cluster multiple import options
-&#xe693;,,export-options,Cluster multiple export options
-&#xe694;,,color-white,Icon is part of color mangement control
-&#xe695;,,date,Date
-&#xe696;,,currencies,Currency/currencies
-&#xe697;,,hierarchy,Hierarchy
-&#xe698;,,number,Number(s)/numeric
-&#xe699;,,formula,"All kind of formulas, Opens calculation editor dialog, Indicates calculation, Toggle button in grid‘s text/formula bar"
-&#xe69a;,,models-imported,Imported model(s)
-&#xe69b;,,shape,"Shape, Add shape"
-&#xe69c;,,justified-aligned,Justified aligned objects
-&#xe69d;,,vertical-align-top,Vertically top aligned objects
-&#xe69e;,,vertical-align-middle,Vertically middle aligned objects
-&#xe69f;,,vertical-align-bottom,Vertically bottom aligned objects
-&#xe6a0;,,list-bulleted,Bulleted list
-&#xe6a1;,,list-numbered,Numbered list
-&#xe6a2;,,cell-reference,Cell reference on a cross table
-&#xe6a3;,,waterfall-rows,Waterfall chart
-&#xe6a4;,,driver-tree,Driver tree chart
-&#xe6a5;,,fit-to-workspace,Fit item to workspace
-&#xe6a6;,,trend,Predictive
-&#xe6a7;,,normalscreen,Minimize item to normal size
-&#xe6a8;,,beginning,"Navigate, page, scroll to beginning"
-&#xe6a9;,,end,"Navigate, page, scroll to end"
-&#xe6aa;,,donut,Donut chart
-&#xe6ab;,,combined_column_line,"Combined column & line chart, stacked combined column & line chart"
-&#xe6ac;,,drill,Drill hierarchies
-&#xe6ad;,,heat_map,Heat map chart
-&#xe6ae;,,pie,Pie chart
-&#xe6af;,,table,Table
-&#xe6b0;,,edit-options,Cluster multiple edit options
-&#xe6b1;,,password,Password
-&#xe6b2;,,stories,Story/stories
-&#xe6b3;,,allocation,Allocation
-&#xe6b4;,,bring_to_front,Bring object to front
-&#xe6b5;,,bring_forward,Bring object forward
-&#xe6b6;,,bring_to_back,Bring object to back
-&#xe6b7;,,bring_backward,Bring object backward
-&#xe6b8;,,left-aligned-object,Left aligned object
-&#xe6b9;,,vertically-aligned-object,Vertically aligned object
-&#xe6ba;,,right-aligned-object,Right aligned object
-&#xe6bb;,,top-aligned-object,Top aligned object
-&#xe6bc;,,horizontally-aligned-object,Horizontally aligned object
-&#xe6bd;,,bottom-aligned-object,Bottom aligned object
-&#xe6be;,,fill_color,Fill color
-&#xe6bf;,,bridge,Bridge chart
-&#xe6c0;,,expand_size,Expand object
-&#xe6c1;,,primary-data-left-joint,"Left joint, primary data is left table (used in data wrangling, blending)"
-&#xe6c2;,,sorted-options,Please use sort icon instead.
-&#xe6c3;,,like,"To like an object, Object is not yet liked"
-&#xe6c4;,,like-filled,Like an object
-&#xe6c5;,,rank,Rank
-&#xe6c6;,,drill_up,Drill up the hierarchy
-&#xe6c7;,,drill_down,Drill down the hierarchy
-&#xe6c8;,,filter-options,Cluster multiple filter options
-&#xe6c9;,,value-help,Value help
-&#xe6ca;,,connections,Connections
-&#xe6cb;,,reuse,Reuse object
-&#xe6cc;,,allocation-options,Cluster multiple allocation options
-&#xe6cd;,,data-changes,Data changes
-&#xe6ce;,,input-form,Input form
-&#xe6cf;,,form-options,Cluster multiple input form options
-&#xe6d0;,,archive,Archive.Package in R-Language auto suggestion
-&#xe6d1;,,line-double-axis,Dual axsis line chart
-&#xe6d2;,,bookmark,Bookmark(s)
-&#xe6d3;,,color-picker-options,Cluster muliple color picker options
-&#xe6d4;,,variable,"Variable(s), Script Variable(s) (App Design), Prompt (Story)"
-&#xe6d5;,,variable-options,Cluster multiple variable options
-&#xe6d6;,,network,Network
-&#xe6d7;,,blending,Blending
-&#xe6d8;,,feature,Feature layer (used in geo maps)
-&#xe6d9;,,marker,Marker
-&#xe6da;,,circle,Circle marker(s)
-&#xe6db;,,square,"Chloropleth layer for geo maps, Environement for R-Language auto suggestion"
-&#xe6dc;,,layers,Layer(s)
-&#xe6dd;,,polygon-tool,Polygon tool
-&#xe6de;,,show,Show object
-&#xe6df;,,hide,Hide object
-&#xe6e0;,,server,Server
-&#xe6e1;,,drill_leaves,"Drill to leafs (planning), Expand next level (BI)"
-&#xe6e2;,,minus,"Zoom out, Properties (in a Model)"
-&#xe6e3;,,launch,Save & roll out/Launch
-&#xe6e4;,,base_map,Map
-&#xe6e5;,,organization,Organization perspective
-&#xe6e6;,,generic,Generic perspective
-&#xe6e7;,,cost_pool,Cost pool peperspective
-&#xe6e8;,,account,Account perspective
-&#xe6e9;,,time,"Time perspective, Time"
-&#xe6ea;,,value-driver-tree,Value driver tree chart
-&#xe6eb;,,split-view,Split view
-&#xe6ec;,,single-view,Single view
-&#xe6ed;,,hierarchy_deselected,"Deselect hierarchy, hierarchy is deselected"
-&#xe6ee;,,location-pin,"Marked location on geo-map, Target (Allocation)"
-&#xe6ef;,,banknote,Source (Allocations)
-&#xe6f0;,,eraser,Clear object
-&#xe6f1;,,cross_table,Cross table
-&#xe6f2;,,ibcs_table,IBCS table
-&#xe6f3;,,explore_view,Explore view
-&#xe6f4;,,icicle,Icicle chart
-&#xe6f5;,,monitor,Monitor data
-&#xe6f6;,,flip,Flip objects
-&#xe6f7;,,located,"Location, Geo coordinate dimension, Object is located (i.e. chart tile on a big canvas), Local (vs. global)"
-&#xe6f8;,,cloud,"Cloud, tag cloud chart"
-&#xe6f9;,,tree-map,Tree map chart
-&#xe6fa;,,marimekko,Marimekko chart
-&#xe6fb;,,bubble,Bubble chart
-&#xe6fc;,,radar,Radar chart
-&#xe6fd;,,combined_bar_line,"Combined bar & line chart, stacked combined bar & line chart"
-&#xe6fe;,,measure,Measure(s)
-&#xe6ff;,,star,"Highlight as favorite, rate an object"
-&#xe700;,,file,File
-&#xe701;,,code,Code
-&#xe702;,,light-bulb,"Idea(s), Smart insights (predictive)"
-&#xe703;,,map_geo,Heat map visualization on a geo map
-&#xe704;,,boardroom,Digital Boardroom
-&#xe705;,,agenda,Agenda for a boardroom presentation
-&#xe706;,,add_row_column,Add Row/Column (choose row or column in drop down menu)
-&#xe707;,,remove_row_column,Remove Row/Column (choose row or column in drop down menu)
-&#xe708;,,merge,Generic icon for merge feature (choose merge or unmerge cells in drop down menu
-&#xe709;,,reference-line,Reference Line for Charts
-&#xe70a;,,play,Play video
-&#xe70b;,,explore,Explore an object (i.e. user‘s data)
-&#xe70c;,,color-transparent,"Color transparent (set color, display selected color)"
-&#xe70d;,,scatter-bubble,Scatter bubble chart
-&#xe70e;,,font,"Font type, toggle button in grid‘s text/formula bar"
-&#xe70f;,,extract,Extract values/characters from cell(s)
-&#xe710;,,bar-width,Bar width
-&#xe711;,,broken-scale,Indicates the scale of a chart is broken (icon is for state not action)
-&#xe712;,,vector,Vector path
-&#xe713;,,zoom-in,Zoom in
-&#xe714;,,primary-data,Primary data (belongs to blending)
-&#xe715;,,all-data,"Full outer joint, all data from both tables (used in blending)"
-&#xe716;,,intersecting-data,"Inner joint, only rows and cols that match (used in blending)"
-&#xe717;,,input-control,Input-control
-&#xe718;,,move-control-to-bar,Move control back to bar
-&#xe719;,,time-series,Time series chart
-&#xe71a;,,lock-cell,Lock cell
-&#xe71b;,,clear-filter,Clear filter (used in Geo toolbar)
-&#xe71c;,,new-filter,"New filter (this icon should be only used for the filter bar, other then that please use generel filter icon)"
-&#xe71d;,,step,Allocation step
-&#xe71e;,,spread,Spreading (allocation)
-&#xe71f;,,distribute,Distribution (allocation)
-&#xe720;,,break-axis,Break axis on a chart
-&#xe721;,,group,"Group elements (i.e. objects on a canvas, nodes in VDT)"
-&#xe722;,,calculate,"Calculation, calculation node type in VDT"
-&#xe723;,,growth-rate,"Growth rate, year over year node type in VDT"
-&#xe724;,,customise,"Customize, custome logic node type in VDT"
-&#xe725;,,union,Union node in VDT (it creates an aggregate of two or more nodes)
-&#xe726;,,flip-vertically,Flip raised axis
-&#xe727;,,ungroup,Unroup elements (i.e. objects on a canvas)
-&#xe728;,,transform,Transform icon in transformation bar
-&#xe729;,,cut,"Cut selected objects (i.e. text), trim values to a certain length"
-&#xe72a;,,fill-up,Fill up values/characters to the same lenght in cell(s)/row (i.e. by adding n “0”s at the end)
-&#xe72b;,,convert,Convert cell/row format (i.e. numeric to text)
-&#xe72c;,,replace,Replace cells/row with other cells/row
-&#xe72d;,,move,Move items (i.e. VDT: Move node to an other lane)
-&#xe72e;,,external-logic,Special node type in VDT
-&#xe72f;,,online-meeting,Start Online Meeting (i.e. in Digital Boardroom)
-&#xe730;,,phone,"Hang up, end online meeting, voice call"
-&#xe731;,,hand,Virtual control in online meeting on a touch device
-&#xe732;,,tiles,Tiles view in repository list
-&#xe733;,,list,List view in repository list
-&#xe734;,,item-arrangement,Item arrangement in repository list
-&#xe735;,,outline-fill,Icon is part of color mangement control
-&#xe736;,,outline,Icon is part of color mangement control
-&#xe737;,,slash,Icon is part of color mangement control
-&#xe738;,,cell-height,To edit heigth of cell
-&#xe739;,,cell-width,To edit width of cell
-&#xe73a;,,rotate-right-90,To rotate an object 90 degree clockwise
-&#xe73b;,,rotate-left-90,To rotate an object 90 degree counterclockwise
-&#xe73c;,,rotate-180,To rotate an object 180 degree
-&#xe73d;,,scale,"To scale an object, to trigger measure scale panel"
-&#xe73e;,,inside-borders,Cell(s) with inside borders
-&#xe73f;,,inside-horizontal-border,Cell(s) with inside horizontal border
-&#xe740;,,inside-vertical-border,Cell(s) with inside vertical border
-&#xe741;,,diagonal-down-border,Cell(s) with diagonal down border
-&#xe742;,,diagonal-up-border,Cell(s) with diagonal up border
-&#xe743;,,sort,Sort objects
-&#xe744;,,sort-ascending,"Sort ascending (i.e. in dimension a crosstab), Object is sorted ascending (i.e. in dimension a crosstab)"
-&#xe745;,,sort-descending,"Sort descending (i.e. dimension a crosstab), Object is sorted descending (i.e. dimension a crosstab)"
-&#xe746;,,route,Route layer for geo maps
-&#xe747;,,open-new-window,"Open an object in a new window, Navigate to..."
-,&#xe748;,exclude,"Remove objects/selections/settings, which can be easily restored (i.e. item from list, token), Exclude selected item(s) from visualization and don't take it's value into account for dissaggregation (i.e. exclude for data filter points in charts, crosstab, and geomap)"
-&#xe749;,,edit-axis,Edit chart axis
-&#xe74a;,,discover,Machine discovery (predictive workflow)
-&#xe74b;,,fireworks,Keyinfluencer (predictive workflow)
-&#xe74c;,,outlier,Outlier (predictive workflow)
-&#xe74d;,,paste,Past (counter part for copy symbol)
-&#xe74e;,,dynamic-token,Dynamic tokens (i.e. dynamic text token in Story)
-&#xe74f;,,root-folder,System root folder in file repository
-&#xe750;,,bars-overlapping-1,Accessing versions in Story: Show versions as upper bar overlapping
-&#xe751;,,bars-overlapping-2,Accessing versions in Story: Show versions as bottom bar overlapping
-&#xe752;,,bar-with-pointer,Accessing versions in Story: Show versions as bar with pointer
-&#xe753;,,bars-side-by-side,Accessing versions in Story: Show versions as bars side by side
-&#xe754;,,process,Hamburger menu point Process (shell for Allocation and Value Driver Tree)
-&#xe755;,,simulate,Simulate (context menu and side panel)
-&#xe756;,,annotation,Annotation mode in online meeting
-&#xe757;,,error-bar,Error bar in charts
-&#xe758;,,portrait-format,Portrait page format
-&#xe759;,,landscape-format,Landscape page format
-&#xe75a;,,arrorw-down,Empty states circles: drop area
-&#xe74e;,,turtle,Dimensions with long loading time in charts
-&#xe75c;,,connection,Linked analysis panel icon
-&#xe75d;,,tooltip,Add tooltip (used in Stories for chart widget)
-&#xe75e;,,cluster,Cluster geo-points on map
-&#xe75f;,,new-comment,Add comment in widget-/data point toolbar in Stories
-&#xe760;,,delta-previous-year,Delta value previous year for VDT nodes
-&#xe761;,,delta-first-year,Delta value first year for VDT nodes
-&#xe762;,,rows,Rows
-&#xe763;,,SQL,Data integration: SQL query
-&#xe764;,,r-language,Predictive: r-language
-&#xe765;,,new-member,Add member (on an ad-hoc basis for table in story)
-&#xe766;,,member-order,Change member order (on an ad-hoc basis for table in story)
-&#xe767;,,microphone,"Open voice recognition/speech command in DBR, voice in call (i.e. in online meeting)"
-&#xe768;,,edge,Resize indication on widgets/tiles (i.e. DBR)
-&#xe769;,,percentage,Change chart lables from numeric to percentage (in Stories)
-&#xe76a;,,omega,Open symbol dialog (in Stories)
-&#xe76b;,,support,Call/contact support (i.e. in help center)
-&#xe76c;,,mobile,Indicates file is mobile enabled (i.e responsive stories)
-&#xe76d;,,devices,Show preview for device (i.e responsive stories)
-&#xe76e;,,open,"Open/Insert (i.e. open file in repo, insert item in story, or script editor)"
-&#xe76f;,,multi_selection,Multi selection (i.e. in mobile)
-&#xe770;,,transfer_briefcase,Transfer system ownership/ change system owner
-&#xe771;,,terminal,Script editor/console (i.e. in predictive)
-&#xe772;,,layout,Layout (i.e. layout panel for responsive stories)
-&#xe773;,,device-orientation,Device orientation in responsive pages (Stories)
-&#xe774;,,exception-data,"Exception joint, right table substracts from left table (used in blending)"
-&#xe775;,,function,Function for variable (i.e. R visualization script editor > auto suggestion)
-&#xe776;,,analytic-hub,Analytics hub
-&#xe777;,,book,"File Repo Store, i.e. BOC Content Delivery Service"
-&#xe778;,,box-no-border,Widget(s) without borders
-&#xe779;,,box-left-border,Widget(s) with border on the left side
-&#xe77a;,,box-top-border,Widget(s) with border on the top
-&#xe77b;,,box-right-border,Widget(s) with border on the right side
-&#xe77c;,,box-bottom-border,Widget(s) with border on the bottom
-&#xe77d;,,box-top-bottom-border,Widget(s) with border on the top and bottom
-&#xe77e;,,box-left-right-border,Widget(s) with border on the left and right sides
-&#xe77f;,,box-outside-border,Widget(s) with borders on outsides
-&#xe780;,,leave,Leave a conversation
-&#xe781;,,top-and-bottom-border,Cell(s) with border on the top and bottom
-&#xe782;,,twitter,Twitter
-&#xe783;,,feed,RSS Feed
-&#xe784;,,store,Store
-&#xe785;,,library,"Store library side panel (in DBR), Control library (i.e. in element side panel within the App Design)"
-&#xe786;,,books,Books
-&#xe787;,,threshold-good,Threshold good
-&#xe788;,,threshold-warning,Threshold warning
-&#xe789;,,threshold-alert,Threshold alert (error)
-&#xe78a;,,text-abc,Text
-&#xe78b;,,numbers-123,Numbers
-&#xe78c;,,assign,Set [dimentsion] value for selected member to [X] (Wranglling)
-&#xe78d;,,time-calculation,Time calcuation (i.e. in Story)
-&#xe78e;,,edit-calculation,Edit calculation (i.e. in Story)
-&#xe78f;,,same_elements,vector for R-Language auto suggestion
-&#xe790;,,different_elements,List for R-Language auto suggestion
-&#xe791;,,conditional_formatting,Conditional formatting
-&#xe792;,,center,Move object to center (i.e. node in VDT)
-&#xe793;,,no-edit,"Read-only cell in planning (to prevent user from edit, but the value is not locked and can receive updates from referring cells)"
-&#xe794;,,lightning,Auto-complete (i.e. in VDT auto-complete branch
-&#xe795;,,sum,Change aggregation type (planning)
-&#xe796;,,variance-bar,Varianc bar chart
-&#xe797;,,percentage-pin,Percentage pin chart
-&#xe798;,,alias,"File alias, version alias (i.e. used in planning for version management)"
-&#xe799;,,new-table,Add table (used in Query Builder to add/load related tables)
-&#xe79a;,,static-filter,"Static set/ filter (used in Query Builder), Sets items are exposed as other meta data within the Universe outline and behave as filters"
-&#xe79b;,,temporary-filter,"Temporary set/ filter (used in Query Builder), Sets items are exposed as other meta data within the Universe outline and behave as filters"
-&#xe79c;,,text-wrap,Wrap text automatically (data in the cell wraps to fit the column width)
-&#xe79d;,,linked-model,Linked model
-&#xe79e;,,linked-variable,Linked variable
-&#xe79f;,,histogram,Histogram chart
-&#xe7a0;,,binoculars,Predictive
-&#xe7a1;,,new-model,New model
-&#xe7a2;,,working-model,Working model
-&#xe7a3;,,data-set,Data set
-&#xe7a4;,,wrangling,Wrangling
-&#xe7a5;,,edit-wrangling,Edit wrangling
-&#xe7a6;,,edit-table,Edit table (edit query)
-&#xe7a7;,,mapping,Mapping
-&#xe7a8;,,edit-mapping,Edit mapping
-&#xe7a9;,,hierarchy-parent,Parent (in a hierarchy)
-&#xe7aa;,,hierarchy-child,Child (in a hierarchy)
-&#xe7ab;,,hierarchy-grand-child,Grand child (in a hierarchy)
-&#xe7ac;,,slim-arrow-down,"Slim arrow in drop down field to trigger drop down, Options' arrow for menu buttons to trigger select drop down"
-&#xe7ad;,,slim-arrow-up,Slim arrow up
-&#xe7ae;,,slim-arrow-left,Slim arrow left
-&#xe7af;,,slim-arrow-right,Slim arrow right
-&#xe7b0;,,exit-save,–
-&#xe7b1;,,planning-sequence,Planning Sequence
-&#xe7b2;,,lock-drill,Lock ability for cell
-&#xe7b3;,,screenshot,Screenshot
-&#xe7b4;,,resize-corner,Resize corner for resizable controls
-&#xe7b5;,,add-difference-marker,Add difference marker (charting)
-&#xe7b6;,,dimension-member,Dimension member
-&#xe7b7;,,dimension-filter,Dimension filter
-&#xe7b8;,,dimension-swap,Dimension swap
-&#xe7b9;,,measure-filter,Measure filter
-&#xe7ba;,,measure-swap,Measure swap
-&#xe7bb;,,calculation-swap,Calculation swap
-&#xe7bc;,,advanced-filter,Advanced filter
-&#xe7bd;,,inspection,"Compare note type (Pred Pro), In Review status (Calendar: Task status)"
-&#xe7be;,,new-note,New note (Pred Pro)
-&#xe7bf;,,tree,Classification node type (Pred Pro)
-&#xe7c0;,,clustering,Clustering node type (Pred Pro)
-&#xe7c1;,,regression,Regression node type (Pred Pro)
-&#xe7c2;,,multi_selection_2,Multi selection (mobile)
-&#xe7c3;,,play-process,"Play process, Start Model training (Pred Pro)"
-&#xe7c4;,,stop-process,"Stop process, End Model training (Pred Pro)"
-&#xe7c5;,,editor-comment,Comment symbol in editor (i.e. App Design)
-&#xe7c6;,,radiobutton,Add radiobutton (i.e. App Design)
-&#xe7c7;,,checkbox,Add checkbox (i.e. App Design)
-&#xe7c8;,,button,Add button (i.e. App Design)
-&#xe7c9;,,dialog,Add dialog (i.e. App Design)
-&#xe7ca;,,app-outline,Element side panel (i.e. App Design)
-&#xe7cb;,,dropdown,Dropdown (i.e. App Design)
-&#xe7cc;,,global-variables,Global variables (i.e. App Design)
-&#xe7cd;,,data-save,Save data (i.e. App Design)
-&#xe7ce;,,max-screen,
-&#xe7cf;,,small,
-&#xe7d0;,,medium,
-&#xe7d1;,,large,
-&#xe7d2;,,duster-topics,Duster topics (Events)
-&#xe7d3;,,notes,Meeting notes (Events)
-&#xe7d4;,,calendar-today,Go to today (Events)
-&#xe7d5;,,layout-sorting,Sort layout (Events)
-&#xe7d6;,,full-name,Display full name (Events)
-&#xe7d7;,,busy-indicator,In progress state (Events)
-&#xe7d8;,,reject-assignee,Reject assignee (Events)
-&#xe7d9;,,assignees-done,Assignees done (Events)
-&#xe7da;,,event-process,–
-&#xe7db;,,new-member-edit,Edit new member
-&#xe7dc;,,edit-member,Edit member (ad-hoc member on table in story)
-&#xe7dd;,,copy-data,Copy data
-&#xe7de;,,no-assignee,No assignee(s) given (Calendar: Task status)
-&#xe7df;,,tri-state,Tri-state for checkboxes
-&#xe7e0;,,distribute-spacing-vertically,Distribute spacing vertically (charts)
-&#xe7e1;,,distribute-spacing-horizontally,Distribute spacing horizontally (charts)
-&#xe7e2;,,unique,Unique key (data wrangling)
-&#xe7e3;,,close-up,Show together' feature (data wrangling)
-&#xe7e4;,,number-decimals,Column type numbers with decimals (data wrangling)
-&#xe7e5;,,boolean,Column type boolean (data wrangling)
-&#xe7e6;,,translation,Translation space (hamburger menu)
-&#xe7e7;,,dislike,Dislike an object
-&#xe7e8;,,roambi,Roambi logo
-&#xe7e9;,,sample-content,Sample content in content lib (Files)
-&#xe7ea;,,business-content,Business content in content lib (Files)
-&#xe7eb;,,third-party-content,Third party content in content lib (Files)
-&#xe7ec;,,team-folder,Folder for team content (Files)
-&#xe7ed;,,auto-load-filter,–
-&#xe7ee;,,live-model,Live model(s)
-&#xe7ef;,,comment-indicator,Comment indicator for comment placed on one of the childreen of this data point (DTC in Story)
-&#xe7f0;,,comment-indicator-filled,Comment indicator for comment on this data point (DTC in Story)
-&#xe7f1;,,draft,Task draft state (calendar)
-&#xe7f2;,,list-numbered-RTL,Numbered list #RTL
-&#xe7f3;,,multi_selection-RTL,Multi selection (i.e. in mobile) #RTL
-&#xe7f4;,,copy-data-2,Copy data across models
-&#xe7f5;,,list-hierarchy,Overview of the currently active application (i.e. App Design)
-&#xe7f6;,,folder-function,Container for reusable script functions (i.e. App Design)
-&#xe7f7;,,canvas,"App Canvas (i.e. empty page in Story, App Design)"
-&#xe7f8;,,partially-completed,Task status: partially completed (Calendar)
-&#xe7f9;,,stop-watch,Task status: overdue (Calendar)
-&#xe7fa;,,date-time,"Timestamp (Wrangling, Query Builder)"
-&#xe7fb;,,apply-down,Selection of multiple items in hierarchy (DBR topic filters)
-&#xe7fc;,,unpivot-transformation,Unpivot transformation (Wrangling)
-&#xe7fd;,,sankey-chart,Sankey chart (Stories)
-&#xe7fe;,,performance,performance (Modeler)
-&#xe7ff;,,google-sheets,Google Sheets (file upload)
-&#xe800;,,bpc-planning-sequence,BPC Planning Sequence
-&#xe801;,,ruum,Ruum (Boardroom)
-&#xe802;,,range-slider,Range Slider (App Building)
-&#xe803;,,slider,Slider (App Building)
-&#xe804;,,backspace,"backspace (Digital Boardroom, Keypad)"
-&#xe805;,,time-entry-request,Time Entry Request (Export Model as File Dialog)
-&#xe807;,,tab-container,Tab Container (App Building)
-&#xe808;,,panel-container,Panel Container (App Building)
-&#xe809;,,open-connectors,Open Connectors (Modeler)
-&#xe810;,,moon,Moon (DWC)
-&#xe811;,,snowflake,temperature-cold
-&#xe812;,,live-table,Live Table (DWC)
-&#xe813;,,relationship-diagram,Relationship Diagram (DWC)
-&#xe814;,,fire,Temperature Hot (DWC)
-&#xe815;,,table-view,Table View (DWC)
-&#xe816;,,primary-key,primary key (DWC)
-&#xe817;,,upload-to-cloud,Upload to Cloud (DWC)
-&#xe818;,,data-warehouse,Data Warehouse (DWC)
-&#xe819;,,data-space-management,Data Space Management (DWC)
-&#xe81a;,,table-builder,"Table Builder, Data Builder (DWC)"
-&#xe81b;,,fact-view,"Fact View, Fact Table (DWC)"
-&#xe81c;,,new-view,New View (DWC)
-&#xe81d;,,live-data-set,Live Dataset
-&#xe81e;,,temperature-cold,Temperature Cold (DWC)
-&#xe81f;,,temperature-hot,Temperature Hot (DWC)
-&#xe820;,,feedback,"Feedback, Qualtrics"
-&#xe821;,,lock-archive,Business Library
-&#xe822;,,carousel,"carousel, Application Designer"
-&#xe823;,,tracking,"Follow, Tracking, Monitor, Watch Follow Data Point"
-&#xe824;,,toggle-switch,"Toggle Switch, Application Designer"
-&#xe825;,,responsive-panel,"Responsive Panel, Responsive Widget (App Building)"
-&#xe826;,,move-top,"Move to top of list (DWC), Custom Sorting (SAC)"
-&#xe827;,,move-bottom,"Move to bottom of list (DWC), Custom Sorting (SAC)"
-&#xe828;,,association,Association (DWC)
-&#xe829;,,authorization-scenario,Authorization Scenario (DWC)
-&#xe82a;,,consumption-model,Consumption Model (DWC)
-&#xe82b;,,fact-model,Fact Model (DWC)
-&#xe82c;,,keyboard,keyboard for Search to Insight Voice (SAC)
-&#xe82d;,,data-flow,"Data Flow in DWC, appears in file repo of SAC (SAC & DWC)"
-&#xe82e;,,watchlist-add,"Watchlist, watch views, add to watchlist (SAC mobile)"
-&#xe82f;,,watchlist,"Watchlist, watch views, (SAC mobile)"
-&#xe830;,,chart-table,"chart, table, views, view"
-&#xe831;,,explore-table,"explore, table, data analyzer"
-&#xe832;,,business-card,"Business Card, Business Layer (DWC)"
-&#xe833;,,permission,"Permission, Authorization (DWC)"
-&#xe834;,,diamond,"threshold, diamond (SAC)"
-&#xe835;,,bullet-chart,bullet chart
-&#xe836;,,folder-search,folder search
-&#xe837;,,catalog,"catalog, model dialog, app switcher"
-&#xe838;,,retail-store-manager,"DWC, modules shell"
-&#xe839;,,retail-store-share,"DWC, modules shell"
-&#xe83a;,,linked-analysis-tree, "linked, analysis, tree"
-&#xe83b;,,employee-rejections, "Deactivation button for Secturity/Users in SAC and DWC"
-&#xe83c;,,employee-approvals, "Activation button for Secturity/Users in SAC and DWC"
-&#xe83d;,,color-fill-square, "fori shape for color"
-&#xe83e;,,color-white-square, "fori shape for white color"
-&#xe83f;,,object-mapper, "object mapper"
-&#xe840;,,replication-flow, "replication flow"
-&#xe841;,,css-editor, "css editor"
-&#xe842;,,formula-measure, "formula measure"
-&#xe843;,,formula-dimension, "formula dimension"
-&#xe844;,,formula-account, "formula account"
-&#xe845;,,fill-background-color-white-square, "fill background color white square"
-&#xe846;,,fill-background-color-square, "fill background color square"
-&#xe847;,,numeric-ghoststate, "numeric ghoststate"
-&#xe848;,,intelligent-lookup, "intelligent lookup"
-&#xe849;,,requirement-diagram, "diagram, chart, requirement"
-&#xe84a;,,boolean-circles, "circles, boolean"
-&#xe84b;,,uuid,
-&#xe84c;,,binary,
-&#xe84d;,,person-key,
-&#xe84e;,,business-entity,
-&#xe84f;,,record,
-&#xe850;,,panel-left,
-&#xe851;,,panel-right,
-&#xe852;,,data-sphere,
-&#xe853;,,justask,
-&#xe854;,,excel-workbook,
+unicode,character,short_name,search_keyword
+&#xe677,,accept,"shaking hands, two hands, accept, &#xe677"
+&#xe6e8,,account,"account, account perspectives, perspectives, abacus, &#xe6e8"
+&#xe685,,activities,"activities, beach ball, activity, &#xe685"
+&#xe706,,add_row_column,"add row column, column, row, add, &#xe706"
+&#xe7b5,,add-difference-marker,"add cgr, compound growth rate, add difference marker, difference marker, add, difference, marker, cgr, &#xe7b5"
+&#xe7bc,,advanced-filter,"complex filters, filter, advanced filter, advanced, &#xe7bc"
+&#xe705,,agenda,"agenda, boardroom, presentation, list, &#xe705"
+&#xe638,,alert,"alert, warning, &#xe638"
+&#xe798,,alias,"alias, &#xe798"
+&#xe65a,,all-borders,"all borders, all, border, boarders, all-borders, &#xe65a"
+&#xe715,,all-data,"all data, all, data, all-data, &#xe715"
+&#xe6b3,,allocation,"three arrows, planning, allocation, &#xe6b3"
+&#xe6cc,,allocation-options,"options, allocation, allocation options, menu, &#xe6cc"
+&#xe776,,analytic-hub,"analytics hub, analytic-hub, hub, analytic, cloud, analytics-hub, analytic hub, &#xe776"
+&#xe756,,annotation,"pen tool, annotation, annotation mode in online meeting, found in online meeting, &#xe756"
+&#xe7ca,,app-outline,"app, outline, shapes, circle, triangle, square, app design, element side panel, element, &#xe7ca"
+&#xe7fb,,apply-down,"apply down, check, check mark, apply down check, apply-down, &#xe7fb"
+&#xe679,,approval,"approval, approve, check, mark, check mark, &#xe679"
+&#xe6d0,,archive,"box, archive, &#xe6d0"
+&#xe65b,,area,"chart, area chart, chart widget, area, chart area, &#xe65b"
+&#xe75a,,arrorw-down,"arrow, down arrow, down, arrow down, arrow-down, &#xe75a"
+&#xe628,,ascending,"ascending, &#xe628"
+&#xe78c,,assign,"assign, circle, square, square and circle, circle and square, circle with arrow, circle pointing at square, &#xe78c"
+&#xe7d9,,assignees-done,"assignee, assignees, done, checkmark, people, users, multi users, &#xe7d9"
+&#xe828,,association,"association, Datasphere, &#xe828"
+&#xe61d,,attachment,"attachments, paper clip, &#xe61d"
+&#xe61e,,attachment-options,"attachment-options, attachment, options, &#xe61e"
+&#xe829,,authorization-scenario,"key, authorization scenario, authorization, scenario, &#xe829"
+&#xe7ed,,auto-load-filter,"auto load, auto load filter, filter, load, auto, &#xe7ed"
+&#xe66b,,auto-sync,"auto, auto sync, sync, syncronize automatically, syncronize, automatically, &#xe66b"
+&#xe804,,backspace,"backspace, arrow, left arrow, left, keyboard back, back, &#xe804"
+&#xe6ef,,banknote,"money, $, banknote, money bill, paper bill, bank note, &#xe6ef"
+&#xe664,,bar-columns,"chart, bars, bar, vertical, vertical bar chart, column chart, bar-columns, &#xe664"
+&#xe663,,bar-rows,"chart, bars, rows, horizontal bar chart, horizontal bars, chart widget, bar-rows, &#xe663"
+&#xe710,,bar-width,"bar, width, bar width, &#xe710"
+&#xe752,,bar-with-pointer,"bar-with-pointer, bar with pointer, bar and pointer, bar, pointer, &#xe752"
+&#xe750,,bars-overlapping-1,"bars-overlapping-1, bar, bars, overlapping, versions, chart, &#xe750"
+&#xe751,,bars-overlapping-2,"bars, overlapping, bars overlapping, overlapping bars, bars-overlapping-2, &#xe751"
+&#xe753,,bars-side-by-side,"bar, side by side, bars, bars side by side, side, ibsc bar layout, &#xe753"
+&#xe6e4,,base_map,"base, map, base map, geo base map, base map style, map style, map style for geo, geo chart map, &#xe753"
+&#xe6a8,,beginning,"arrows, arrow, beginning, go to beginning, &#xe6a8"
+&#xe84c,,binary,"binary, &#xe84c"
+&#xe7a0,,binoculars,"binoculars, &#xe7a0"
+&#xe6d7,,blending,"blend, blending, &#xe6d7"
+&#xe704,,boardroom,"boardroom, &#xe704"
+&#xe64d,,bold,"bold, text, bold text, &#xe64d"
+&#xe777,,book,"file repo store, book, boc content delivery service, &#xe777"
+&#xe6d2,,bookmark,"bookmark, later, marker, save, &#xe6d2"
+&#xe786,,books,"books, book, book shelf, three books, &#xe786"
+&#xe7e5,,boolean,"boolean, 10, 1, &#xe7e5"
+&#xe84a,,boolean-circles,"boolean-circles, boolean, &#xe84a"
+&#xe6bd,,bottom-aligned-object,"bottom aligned object, bottom aligned, bottom-aligned, aligned-object, aligned object, bottom, aligned, object, &#xe6bd"
+&#xe658,,bottom-border,"bottom border, bottom, border, bottom-border, &#xe658"
+&#xe77c,,box-bottom-border,"box-bottom-border, box bottom border, border, bottom border, &#xe77c"
+&#xe779,,box-left-border,"box left border, left border, box, border, left-border, &#xe655"
+&#xe77e,,box-left-right-border,"box, left, right, border, box left right, left and right border, &#xe77e"
+&#xe778,,box-no-border,"box, no border, box no border, no border box, &#xe778"
+&#xe77f,,box-outside-border,"box-outside-border, box, outside, border, box outside, outside border, &#xe77f"
+&#xe66a,,box-plot,"box plot, chart, boxplot, chart widget, box-plot, chart type, &#xe66a"
+&#xe77b,,box-right-border,"box, box right border, right border, box-right, right-border, &#xe77b"
+&#xe77a,,box-top-border,"box, top, border, box top border, top border, box-top-border, &#xe77a"
+&#xe77d,,box-top-bottom-border,"box, top, bottom, border, box top bottom border, &#xe77d"
+&#xe800,,bpc-planning-sequence,"bpc, planning, sequence, bpc planning sequence, planning sequence, bpc-planning-sequence, &#xe800"
+&#xe720,,break-axis,"axis, break, break axis, break-axis, &#xe720"
+&#xe6bf,,bridge,"bridge, waterfall, chart, chart type, &#xe6bf"
+&#xe6b7,,bring_backward,"bring, backwards, bring backwards, bring_backwards, &#xe6b7"
+&#xe6b5,,bring_forward,"bring_forward, bring, forward, &#xe6b5"
+&#xe6b6,,bring_to_back,"bring to back, back, styling, bring-to-back, bring to, &#xe6b6"
+&#xe6b4,,bring_to_front,"bring to front, bring_to_front, bring to, front, place object in front, &#xe6b4"
+&#xe711,,broken-scale,"compare, law, justice, scale, measure, weight, balance, comparison, uneven scale, uneven, broken, &#xe711"
+&#xe6fb,,bubble,"bubble, bubble chart, chart, chart type, &#xe6fb"
+&#xe835,,bullet-chart,"bullet, chart, bullet-chart, chart type, &#xe835"
+&#xe832,,business-card,"business-card, business card, card, business, business layer, layer, &#xe832"
+&#xe7ea,,business-content,"business, business-content, content, breifcase, business content, &#xe7ea"
+&#xe84e,,business-entity,"datasphere, business, entity, build, wrench, circle, triangle, shapes, &#xe84e"
+&#xe7d7,,busy-indicator,"busy, indicator, loading indicator, loading, bubble loading, three dot loading, busy-indicator, &#xe7d7"
+&#xe7c8,,button,"button, add button, button component, app design, &#xe7c8"
+&#xe722,,calculate,"calculate, plus and minus, calculation, calculation node type, calculation node type in vdt, vdt, &#xe722"
+&#xe7bb,,calculation-swap,"calculation, swap, swap calculations, calculation-swap, swap-calculations, formula, &#xe7bb"
+&#xe61a,,calendar,"calendar, date, date picker, month, week, day, appointment, &#xe61a"
+&#xe7d4,,calendar-today,"calendar, today, calendar today, calendar with arrow, &#xe7d4"
+&#xe615,,cancel,"cancel, close control, decline action, xe615, &#xe615"
+&#xe7f7,,canvas,"canvas, blank canvas, blank story, stories, &#xe7f7, "
+&#xe822,,carousel,"carousel, image, placeholder, picture, hills, mountains, sun, viewer, lightbox, images, &#xe822"
+&#xe837,,catalog,"catalog, &#xe837"
+&#xe738,,cell-height,"cell height, cell, height, cell-height, to edit heigth of cell, &#xe738"
+&#xe6a2,,cell-reference,"cell, reference, cell reference, &#xe6a2"
+&#xe739,,cell-width,"to edit width of cell, cell width, width, cell, to edit width, width of cell, &#xe739"
+&#xe792,,center,"center, center view, place view in center, center objects in view, center the view, &#xe792"
+&#xe652,,centered,"centered, &#xe652"
+&#xe830,,chart-table,"chart table, chart, table, view, views, view icon in file repo, &#xe830"
+&#xe635,,charts,"chart, pie, bar, bar chart, &#xe635"
+&#xe7c7,,checkbox,"checkbox, checkboxes, checkbox widget, checkbox control, &#xe7c7"
+&#xe6da,,circle,"circle, markers, marker, xe6da"
+&#xe71b,,clear-filter,"clear filter, filter, clear, clear-filter, filter clear, delete filter, remove filters, remove filter, &#xe71b"
+&#xe7e3,,close-up,"close-up, search, stars search, search to insights module, 'show together' feature (data wrangling), &#xe7e3"
+&#xe6f8,,cloud,"cloud, platform, storage, big data, sap, &#xe6f8"
+&#xe75e,,cluster,"cluster, cluster geo points on map, cluster geo points, &#xe75e"
+&#xe7c0,,clustering,"clustering, clustering node type, predictive pro, cluster, &#xe7c0"
+&#xe701,,code,"code, brackets, &#xe701"
+&#xe660,,collaps-all,"collaps, collapse, all, collapse all, collaps all, &#xe660"
+&#xe65e,,color,"color, circle, &#xe65e"
+&#xe83d,,color-fill-square,"color, square, fill, &#xe83d"
+&#xe690,,color-picker,"color, color picker, picker, color-picker, &#xe690"
+&#xe6d3,,color-picker-options,"color, picker, options, color picker options, picker options, color options, &#xe6d3"
+&#xe70c,,color-transparent,"no color, color, transparent, color transparent, transparent color, &#xe70c"
+&#xe694,,color-white,"color, white, white color, color-white, white-color, &#xe694"
+&#xe83e,,color-white-square,"color, square, white, stroke, &#xe83e"
+&#xe646,,columns,"column, columns, &#xe646"
+&#xe6fd,,combined_bar_line,"bar line, chart, combined bar line, horizontal chart"
+&#xe6ab,,combined_column_line,"combined column line, vertical chart, &#xe6ab, combined, column, line, &#xe6ab"
+&#xe66f,,comment,"comment, &#xe66f"
+&#xe7ef,,comment-indicator,"comment,indicator, &#xe7ef"
+&#xe7f0,,comment-indicator-filled,"comment-indicator-filled, comment indicator filled, comment, indicator filled, &#xe7f0"
+&#xe614,,completed,"completed, partially completed, partially, check mark, check, accept, approve, correct, checkmark, tick, affirmative, &#xe614"
+&#xe791,,conditional_formatting,"conditional_formatting, conditional formatting, formatting, conditional, &#xe791"
+&#xe75c,,connection,"connection, connections, &#xe75c"
+&#xe6ca,,connections,"connection, connections, &#xe6ca"
+&#xe82a,,consumption-model,"consumption model, model, consumption, consumption-model, &#xe82a"
+&#xe645,,contextual-chart,"geo contextual chart, tooltip chart, chart in popup, chart in popup for geo, contextual chart, contextual-chart, &#xe645"
+&#xe66e,,conversations,"conversations, &#xe66e"
+&#xe72b,,convert,"convert cell, convert, circle to triangle, row format, numeric to text, &#xe72b"
+&#xe60d,,copy,"copy, copy an object, document, file, duplicate, text, &#xe60d"
+&#xe7dd,,copy-data,"copy, copy data, data, &#xe7dd"
+&#xe7f4,,copy-data-2,"copy, data, copy data, copy-data, &#xe7f4"
+&#xe60e,,copy-options,"copy, copy options, copy-options, &#xe60e"
+&#xe6e7,,cost_pool,"cost_pool, cost pool, money, $, money bag, bag of money, &#xe6e7"
+&#xe6f1,,cross_table,"cross table, table, planning, &#xe6f1"
+&#xe841,,css-editor,"css, editor, css editor, e841, &#xe841"
+&#xe696,,currencies,"$, currency/currencies, currency, currencies, &#xe696"
+&#xe724,,customise,"customise, wrench, builder, builder panel, stories builder panel, custom logic, &#xe724"
+&#xe729,,cut,"sissors, cut, &#xe729"
+&#xe63d,,dashboards,"smart discovery, smart, discovery, dashboard, dashboards, &#xe63d"
+&#xe68a,,data,"data, &#xe68a"
+&#xe6cd,,data-changes,"dataset, data, pencil, data change, data changes, data-changes, &#xe6cd"
+&#xe82d,,data-flow,"data flow, data, dataflow, instance, process, clock, chevron, &#xe82d"
+&#xe7cd,,data-save,"data-save, data save, save data, save, data, &#xe7cd"
+&#xe7a3,,data-set,"data set, data, &#xe7a3"
+&#xe819,,data-space-management,"data space management, data, space, management, dwc, data space management (datasphere), &#xe819"
+&#xe852,,datasphere,"data warehouse, dwc, data, house, data-warehouse, datasphere, &#xe852"
+&#xe818,,data-warehouse,"data warehouse, dwc, data, house, data-warehouse, &#xe818"
+&#xe695,,date,"calendar, date, specific date, 14, &#xe695"
+&#xe7fa,,date-time,"date, time, date-time, timestamp, &#xe7fa "
+&#xe60b,,delete,"delete, permanent delete, deletion, garbage, garbage can, &#xe60b"
+&#xe60c,,delete-options,"options, delete, delete options, trash can, menu, delete-options, &#xe60c"
+&#xe761,,delta-first-year,"delta, first, year, delta first year, delta-first-year, &#xe761"
+&#xe760,,delta-previous-year,"delta, delta previous year, previous year, &#xe760"
+&#xe66d,,deployment,"deployment, &#xe66d"
+&#xe629,,descending,"descending, &#xe629"
+&#xe631,,designer,"designer, styling, styling panel, paint brush, &#xe631"
+&#xe634,,deployment, &#xe66d,"trigger details panel, details panel, details, puzzle piece, puzzle, &#xe634"
+&#xe773,,device-orientation,"device orientation, device, orientation, device-orientation, &#xe773"
+&#xe76d,,devices,"devices, responsive devices, responsive, desktop, tablet, mobile, phone, adaptive, cozy, compact, web app, &#xe76d"
+&#xe741,,diagonal-down-border,"diagonal, down, border, diagonal down border, diagonal down, diagonal border, &#xe741"
+&#xe742,,diagonal-up-border,"diagonal, up, border, diagonal up border, diagonal border, &#xe742"
+&#xe7c9,,dialog,"dialog, &#xe7c9"
+&#xe834,,diamond,"diamond, threshold, &#xe834"
+&#xe790,,different_elements,"different elements, different-elements, circle rectangle triangle, circle, rectangle, triangle, shapes, elements different, &#xe790"
+&#xe7b7,,dimension-filter,"dimension, dimension filter, filter, dimension-filter, filter dimension, filter-dimension, filter on dimension, &#xe7b7"
+&#xe7b6,,dimension-member,"dimension, member, dimension member, &#xe7b6"
+&#xe7b8,,dimension-swap,"dimension swap, dimension-swap, swap, dimension, &#xe7b8"
+&#xe74a,,discover,"discover, &#xe74a"
+&#xe7e7,,dislike,"thumbs down, thumbs, &#xe7e7"
+&#xe71f,,distribute,"distribute, circle with arrows, circle, three arrows, &#xe71f"
+&#xe7e1,,distribute-spacing-horizontally,"distribute, spacing, horizontal, distribute spacing, distribute spacing horizontally, &#xe7e1"
+&#xe7e0,,distribute-spacing-vertically,"distribute-spacing-vertically, distribute, distribute-spacing, distribute spacing, spacing, vertically, vertical, &#xe7e0"
+&#xe6aa,,donut,"donut, chart, charting, &#xe6aa"
+&#xe625,,down,"arrow, down, &#xe625"
+&#xe62e,,download,"download, &#xe62e"
+&#xe7f1,,draft,"draft, pencil, &#xe7f1"
+&#xe6ac,,drill,"drill, hierarchy, &#xe6ac"
+&#xe6c7,,drill_down,"drill down the hierarchy, drill down, drill, down, &#xe6c7"
+&#xe6e1,,drill_leaves,"drill, drill leaves, leaves, leaf, drill-leaf, drill-leaves, drill to leafs (planning), expand next level (bi), expand next level, drill to leafs, &#xe6e1"
+&#xe6c6,,drill_up,"drill_up, drill up, drill up the hierarchy, &#xe6c6"
+&#xe6a4 check &#xe6ea,,driver-tree,""
+&#xe7cb,,dropdown,"dropdown, drop down, dropdown widget, dropdown control, &#xe7cb"
+&#xe7d2,,duster-topics,"duster, topics, duster topics, bar and donut chart file, bar and donut, &#xe7d2"
+&#xe74e,,dynamic-token,"dynamic token, dynamic-token, dynamic_token, &#xe74e"
+&#xe768,,edge,""
+&#xe60f,,edit,"edit, pencil, edit an object, &#xe60f"
+&#xe749,,edit-axis,"edit, axis, edit axis, axis edit, &#xe749"
+&#xe78e,,edit-calculation,"pencil, edit, calculation, edit calculation, calculation edit, &#xe78e"
+&#xe7a8,,edit-mapping,"pencil, edit, edit mapping, mapping, edit-mapping, map, &#xe7a8"
+&#xe7dc,,edit-member,"edit, pencil, member, edit member, edit-member, &#xe7dc"
+&#xe6b0,,edit-options,"pencil, edit, options, edit options, &#xe6b0"
+&#xe7a6,,edit-table,"edit, edit table, edit-table, pencil, table, &#xe7a6"
+&#xe7a5,,edit-wrangling,"pencil, edit, wrangling, edit wrangling, &#xe7a5"
+&#xe7c5,,editor-comment,"editor, editor comment, comment, comments, &#xe7c5"
+&#xe83c,,employee-approvals,"employee-approvals, &#xe83c"
+&#xe83b,,employee-rejections,"employee, rejections, deactivation, security, users, person, cancel, remove, &#xe83b"
+&#xe6a9,,end,"end, scroll to end, navigate, page, &#xe6a9"
+&#xe6f0,,eraser,"eraser, &#xe6f0"
+&#xe757,,error-bar,"error bar, error, bar, error bars, bars, errors, &#xe757"
+&#xe7da,,event-process,"event process, event, process, event-process, &#xe7da"
+&#xe674,,events,"balloon, &#xe674"
+&#xe853,,excel-workbook,"excel-workbook, &#xe853"
+&#xe748,,exclude,"exclude, remove, &#xe748"
+&#xe774,,exception-data,"data, exception, exception data, exception-data, &#xe774"
+&#xe7b0,,exit-save,"exit-save, exit save, save, exit and save, exit, save and exit, door, checkmark, &#xe7b0"
+&#xe6c0,,expand_size,"expand, size, expand-size, expand_size"
+&#xe65f,,expand-all,"expand all, expand, all, expand-all, &#xe65f"
+&#xe70b,,explore,"explore, compass, explorer module"
+&#xe6f3,,explore_view,""
+&#xe831,,explore-table,"data analyzer, table, data analyzer module, explore, explore table, &#xe831"
+&#xe619 ,,export (retirement),"export, export options, cluster multiple export, &#xe619"
+&#xe693,,export-options,"export, export options, options, &#xe619, cluster multiple export options, &#xe693"
+&#xe72e,,external-logic,"external-logic, external logic, formula, data, special node type, special node, node, vdt, &#xe72e"
+&#xe70f,,extract,"extract, extract values, values, characters from cell(s), cells, characters, &#xe70f"
+&#xe82b,,fact-model,"fact, model, fact-model, fact model, &#xe82b"
+&#xe81b,,fact-view,"fact-view, fact, view, fact table, dwc, datasphere, &#xe81b"
+&#xe6d8,,feature,"used in geo map, feature layer, feature, blob, &#xe6d8"
+&#xe783,,feed,"feed, rss feed, &#xe783"
+&#xe820,,feedback,"feedback, qualtrics feedback, qualtrics, happy face, &#xe820"
+&#xe700,,file,""
+&#xe66c,,files,""
+&#xe6be,,fill_color,"fill, color, fill color, paint bucket, &#xe6be"
+&#xe65d,,fill-background-color,"fill background color, fill, background, color, fill-background, background color, background-color, &#xe65d"
+&#xe846,,fill-background-color-square,"e846, fill, background, color, &#xe846"
+&#xe68d,,fill-background-color-white,"fill, background, color, white, background color, fill-background-color, &#xe68d"
+&#xe845,,fill-background-color-white-square,"styling, e845, fill, background, color, &#xe845"
+&#xe72a,,fill-up,"fill up, fill, up, fill-up, &#xe72a"
+&#xe641,,filter,"filter, &#xe641"
+&#xe6c8,,filter-options,"options, filter, filter options, menu, &#xe6c8"
+&#xe814,,fire (retirement),"fire, &#xe814"
+&#xe74b,,fireworks,"keyinfluencer, key influencer, key, influencer, firework, fireworks, predictive, predictive workflow, &#xe74b"
+&#xe6a5,,fit-to-workspace,"fit-to-workspace, fit to workspace, fit to, fit, workspace, &#xe6a5"
+&#xe6f6,,flip,"flip, flip object, &#xe6f6"
+&#xe726,,flip-vertically,"flip-vertically, flip vertically, flip, vertical, flip raised axis, &#xe726"
+&#xe610,,folder,"folder, files, files group, file repository &#xe610"
+&#xe7f6,,folder-function,"folder, function, script, functions, &#xe7f6"
+&#xe836,,folder-search,"folder-search, &#xe836"
+&#xe70e,,font,"font, sac, &#xe70e"
+&#xe65c,,font-color,"font color, font, color, &#xe65c"
+&#xe68c,,font-color-white,"font, color, white, white font color, font color white, &#xe68c"
+&#xe6cf,,form-options,""
+&#xe699,,formula,"all kind of formula, formula, formular bar, indicates calculation, opens calculation editor dialog, text formular bar, &#xe699"
+&#xe844,,formula-account,"formula, account, &#xe844"
+&#xe843,,formula-dimension,"formula, dimension, &#xe843"
+&#xe842,,formula-measure,"formula, measure, calculations, calculation, &#xe842"
+&#xe7d6,,full-name,"full name, abc, full-name, &#xe7d6"
+&#xe608,,fullscreen,"fullscreen, go fullscreen, fullscreen chart, &#xe608"
+&#xe775,,function,"function, &#xe775"
+&#xe668,,gauge-bar,"gauge bar, bar, gauge, gaugebar, &#xe668"
+&#xe669,,gauge-circle,"gauge, gauge circle, &#xe669"
+&#xe6e6,,generic,"generic, generic perspectives, dimension, flower, &#xe6e6"
+&#xe686,,geo,"geo, globe, world, geographical, earth, planet, international, global, geo dimension with hierarchies, data import identified to be geo type, geo type, &#xe686"
+&#xe7cc,,global-variables,"global variables, global, variables, variable, globe, world, global-variable, global variable, prompt, script variable, &#xe7cc"
+&#xe7ff,,google-sheets,"google, sheets, google sheets, google-sheets, &#xe7ff"
+&#xe630,,grip-horizontal,"grip horizontal, horizontal, grip, &#xe630"
+&#xe62f,,grip-vertical,"grip, grip-vertical, vertical, grip vertical, vertical move grip, &#xe62f"
+&#xe721,,group,"group, &#xe721"
+&#xe723,,growth-rate,"growth-rate, growth rate, growth, rate, year over year node type in vdt, node type, vdt, &#xe723"
+&#xe731,,hand,"hand, &#xe731"
+&#xe6ad,,heat_map,"chart, heatmap, heat map, heat, heat map chart, chart widget, &#xe6ad"
+&#xe63a,,help,"question mark, question, question-mark, help, help icon, &#xe63a, questions, trigger global help, &#xe63a"
+&#xe6df,,hide,"hide, show hide, eye, &#xe6df"
+&#xe697,,hierarchy,"hierarchy, &#xe697"
+&#xe6ed,,hierarchy_deselected,"hierarchy, hierarchy_deselect, hierarchy-deselect, deselect, &#xe6ed"
+&#xe7aa,,hierarchy-child,"hierarchy-child, &#xe7aa"
+&#xe7ab,,hierarchy-grand-child,"hierarchy, hierarchy grand child, child, grand, &#xe7ab"
+&#xe7a9,,hierarchy-parent,"hierarchy parent, parent, hierarchy, parent in a hierarchy, &#xe7a9"
+&#xe79f,,histogram,"histogram, chart, histogram chart, &#xe79f"
+&#xe680,,history,"history, time, history log, &#xe680"
+&#xe63c,,home,"home, house, &#xe63c"
+&#xe6bc,,horizontally-aligned-object,"horizontally, aligned, object, horizontally aligned object, &#xe6bc"
+&#xe6f2,,ibcs_table,"ibcs, table, tables, table styling, &#xe6f2"
+&#xe6f4,,icicle,"chart, icicle, charting, chart type, &#xe6f4"
+&#xe618,,import,"import, import data, bring data in, local import, &#xe618"
+&#xe692,,import-options,"import-options, import options, options, import, cluster multiple import options, &#xe692"
+&#xe639,,info,"info, i, information, info help, &#xe639"
+&#xe717,,input-control,"input control, input-control, control, input, filter input control, filter, &#xe717"
+&#xe6ce,,input-form,"input, form, input form, &#xe6ce"
+&#xe73e,,inside-borders,"inside, inside-borders, borders, inside borders, borders inside, &#xe73e"
+&#xe73f,,inside-horizontal-border,"inside, horizontal, border, inside horizontal border, inside-horizontal-border, &#xe73f"
+&#xe740,,inside-vertical-border,"inside, vertical, border, inside vertical border, vertical border, inside-vertical, &#xe740"
+&#xe7bd,,inspection,"inspection, compare note type, in review status, &#xe7bd"
+&#xe848,,intelligent-lookup,"dwc, datasphere, di, intelligent-lookup, intelligent, lookup, e848, checkmark, check, mark, connection, diagram, &#xe848"
+&#xe716,,intersecting-data,"intersecting data, intersecting, data, intersecting-data, &#xe716"
+&#xe650,,italic,"italic, font styling, &#xe650"
+&#xe734,,item-arrangement,"item-arrangement, item arrangement, item, arrangement, layout type, &#xe734"
+&#xe854,,justask,"just-ask, &#xe854"
+&#xe69c,,justified-aligned,"justified, aligned, justified aligned, &#xe69c"
+&#xe82c,,keyboard,"keyboard, sac, mobile, search to insights voice feature, &#xe82c"
+&#xe643,,kpi,"kpi, arrow, dart, dartboard, target group, goal, audience, specific, key performane indicator, key, performance, indicator, &#xe643"
+&#xe759,,landscape-format,"image, placeholder, picture, hills, mountains, sun, &#xe759"
+&#xe7d1,,large,"large, &#xe7d1"
+&#xe6e3,,launch,"launch, launching, rocket, rocket ship, &#xe6e3"
+&#xe6dc,,layers,"layers, layered items, &#xe6dc"
+&#xe772,,layout,"layout, layout panel, responsive stories, responsive layout, &#xe772"
+&#xe7d5,,layout-sorting,"layout sorting, sorting, layout, sorting-layout, layout-sorting, &#xe7d5"
+&#xe780,,leave,"leave, door, arrow, door and arrow, arrow and door, exit, &#xe780"
+&#xe651,,left-aligned,"left-aligned, left, text align, align, left align text, &#xe651"
+&#xe6b8,,left-aligned-object,"left aligned object, left-aligned, aligned object, left, align, object, &#xe6b8"
+&#xe655,,left-border,"border, left, left-border, &#xe655"
+&#xe785,,library,"library, &#xe785"
+&#xe702,,light-bulb,"light, bulb, smart features, smart insights, predictive, idea, &#xe702"
+&#xe794,,lightning,"lightning, &#xe794"
+&#xe6c3,,like,"like, thumbs up, to like an object, object not yet liked, like outline, &#xe6c3"
+&#xe6c4,,like-filled,"like, like filled, filled in like, thumbs, thumbs up, &#xe6c4"
+&#xe662,,line,"line, line chart, chart, &#xe662"
+&#xe6d1,,line-double-axis,"line, line double axis, double axis, double, axis, &#xe6d1"
+&#xe672,,link,"link, &#xe672"
+&#xe83a,,linked-analysis-tree,"linked, analysis, tree, linked analysis, analysis tree, nodes, analytics app, analytics application, linked analysis panel, &#xe83a"
+&#xe79d,,linked-model,"linked-model, link, linked model, model, linked, &#xe79d"
+&#xe79e,,linked-variable,"linked, variable, link, linked-variable, linked variable, prompt, script variable, &#xe79e"
+&#xe733,,list,"list, text, ordered, &#xe733"
+&#xe6a0,,list-bulleted,"bullet points, bulleted list, list, list bulleted, text, text list, &#xe6a0"
+&#xe7f5,,list-hierarchy,"list, hierarchy, list hierarchy, &#xe7f5"
+&#xe6a1,,list-numbered,"list, numbered, text, 123, 1,2,3, 1 , 2, 3, text edit, rich-text, numbered list, list-numbered, &#xe6a1"
+&#xe7f2,,list-numbered-RTL,"list-numbered-rtl, list, numbered, rtl, &#xe7f2"
+&#xe81d,,live-data-set,"live, data set, data, live dataset, &#xe81d"
+&#xe7ee,,live-model,"live, model, live model, live models, &#xe7ee"
+&#xe812,,live-table,"live, live table, table, live-table, table live, table-live, &#xe812"
+&#xe6f7,,located,"located, location, pin location, geo location, &#xe6f7"
+&#xe6ee,,location-pin,"location, pin, pin location, location indicator, location marker, &#xe6ee"
+&#xe821,,lock-archive,"locked, archive, locked archive, lock, locked-archive, &#xe821"
+&#xe71a,,lock-cell,"lock, cell, lock cell, table, &#xe71a"
+&#xe7b2,,lock-drill,"lock ability for cell, lock-drill, lock, person, drill, &#xe7b2"
+&#xe667,,map,"map, &#xe667"
+&#xe703,,map_geo,"geo, map, geo map, heat map for geo, geo heat map, &#xe703"
+&#xe7a7,,mapping,"mapping, &#xe7a7"
+&#xe6fa,,marimekko,"marimekko, chart, charting, &#xe6fa"
+&#xe6d9,,marker,"marker, &#xe672"
+&#xe7ce,,max-screen,"max, screen, max screen, &#xe7ce"
+&#xe6fe,,measure,"measure, ruler, &#xe6fe"
+&#xe7b9,,measure-filter,"measure, filter, measure filter, measure-filter, &#xe7b9"
+&#xe7ba,,measure-swap,"measure, measure swap, swap, measure_swap, &#xe7ba"
+&#xe7d0,,medium,"medium, &#xe7d0"
+&#xe766,,member-order,"member-order, &#xe766"
+&#xe600,,menu,"overall system menu in the application shell, system menu, menu, &#xe600"
+&#xe601,,menu-options,"menu, menu-options, options, &#xe601"
+&#xe708,,merge,"merge, &#xe708"
+&#xe64a,,merge-cells,"merge-cells, merge cells, merge, cells, &#xe64a"
+&#xe683,,messages,"messages, message, envelope, closed envelope, &#xe683"
+&#xe767,,microphone,"microphone, &#xe767"
+&#xe6e2,,minus,"minus, &#xe6e2"
+&#xe76c,,mobile,"mobile, phone, iphone, smart phone, portrait, tablet, responsive, cozy, &#xe76c"
+&#xe63e,,models,"model, models, cube, database, big data, complex, complicated, simple, information, backend, model wizard, &#xe63e"
+&#xe69a,,models-imported,"models imported, model, imported model, imported models, &#xe69a"
+&#xe6f5,,monitor,"monitor, glasses, eye glasses, monitor data, &#xe6f5"
+&#xe810,,moon,"moon, &#xe810"
+&#xe72d,,move,"move, move cursor, move items, move items in vdt, move node to another lane, &#xe72d"
+&#xe827,,move-bottom,"move to top of list, move, bottom, move bottom, &#xe827"
+&#xe718,,move-control-to-bar,"move, control, to bar, place up top, move-control-to-bar, pin to top, pin-to-top, &#xe718"
+&#xe826,,move-top,"move to top, move to top of list, move top, top, move, &#xe826"
+&#xe76f,,multi_selection,"multi select, multi selection, list, check list, multi_selection, &#xe76f"
+&#xe7c2,,multi_selection_2,"multi selection, mobile, &#xe7c2"
+&#xe7f3,,multi_selection-RTL,"multi select, multi selection, list, check list, multi_selection, rtl, &#xe7f3"
+&#xe6d6,,network,"diagram, network, &#xe6d6"
+&#xe609,,new,"new, create, add a new object, new object, add new, &#xe609"
+&#xe670,,new-calculation,"new, calculation, new calculation, calculation new, new-calculation, calculation-new, &#xe670"
+&#xe75f,,new-comment,"new-comment, &#xe75f"
+&#xe71c,,new-filter,"filter, filter new, new, new filter, &#xe71c"
+&#xe765,,new-member,"new-member, new member, new, member, &#xe765"
+&#xe7db,,new-member-edit,"pencil, new member edit, new-member-edit, new member, member edit, &#xe7db"
+&#xe7a1,,new-model,"new model, model, new, new-model, model new, &#xe7a1"
+&#xe7be,,new-note,"new-note, new note, new, note, add, new_note, &#xe7be"
+&#xe60a,,new-options,"new-options, new, options, &#xe60a"
+&#xe799,,new-table,"new table, new, table, new-table, &#xe799"
+&#xe81c,,new-view,"new, view, new view, &#xe81c"
+&#xe627,,next,"arrow, next, &#xe627"
+&#xe7de,,no-assignee,"person, question mark, no assignee, no-assignee, none assignee, &#xe7de"
+&#xe654,,no-border,"border, no border, no-border, none border, &#xe654"
+&#xe793,,no-edit,"pencil, no edit, edit, no-edit, &#xe793"
+&#xe6a7,,normalscreen,"normal screen, normal, screen, arrows, minimize, &#xe6a7"
+&#xe7d3,,notes,"notes, note, clip board, meeting notes, notes for events, &#xe7d3"
+&#xe602,,notifications,"notifications, system notifications, notify, notification, system notification, &#xe602"
+&#xe698,,number,"number, numeric, numbers, &#xe698"
+&#xe7e4,,number-decimals,"number, number-decimals, number decimal, decimals, 1.23, &#xe7e4"
+&#xe78b,,numbers-123,"number, numbers, numbers 123, 123, 123 numbers, &#xe78b"
+&#xe847,,numeric-ghoststate,"ghost chart, ghost, chart, numeric, numeric point, e847, &#xe847"
+&#xe83f,,object-mapper,"object, mapper, table, dwc, datasphere, e83f, di, &#xe83f"
+&#xe76a,,omega,"omega, &#xe76a"
+&#xe72f,,online-meeting,"online meeting, online, meeting, online-meeting, &#xe72f"
+&#xe76e,,open,"open, folder, arrow, folder open, &#xe76e"
+&#xe809,,open-connectors,"open connectors, cloud, connectors, &#xe809"
+&#xe747,,open-new-window,"open new window, open new, open window, jump to space, jump to different module, jump to, open-new-window, open, new window, window, &#xe747"
+&#xe682,,options,"options, down arrow, arrow, down"
+&#xe6e5,,organization,"organization, factory, organization perspective, building, organization dimension, dimension type, &#xe6e5"
+&#xe74c,,outlier,"outlier, outlier (predictive workflow), predictive, &#xe74c"
+&#xe736,,outline,"outline, &#xe736"
+&#xe735,,outline-fill,"outline, outline fill, fill, &#xe735"
+&#xe659,,outside-border,"&#xe659, outside-border"
+&#xe808,,panel-container,"panel container, panel, panel-container, &#xe808"
+&#xe850,,panel-left,""
+&#xe851,,panel-right,""
+&#xe7f8,,partially-completed,"partially-completed, partially, completed, &#xe7f8"
+&#xe6b1,,password,"password"
+&#xe74d,,paste,""
+&#xe676,,pending,"hour glass, action pending, outstanding descision, assignee, reviewer, approver, planning, &#xe676"
+&#xe769,,percentage,"percentage, &#xe769"
+&#xe797,,percentage-pin,"percentage, pin, variance as percent, percentage pin, &#xe797"
+&#xe7fe,,performance,"performance, gauge, measure, speed, monitor, &#xe7fe"
+&#xe833,,permission,"permission, authorization, dwc, &#xe833"
+&#xe67d,,person,"person, user, add person, &#xe67d"
+&#xe84d,,person-key,"person, key, transfer, ownership, infrastructure, e84d, person-key, &#xe84d"
+&#xe63f,,perspectives,"perspectives, perspective, dimension, &#xe63f"
+&#xe730,,phone,"hang up, end online meeting, voice call, phone, telephone, &#xe730"
+&#xe623,,photo,"photo, camera, take a picture, take a photo, &#xe623"
+&#xe6ae,,pie,"pie, chart, pie chart, &#xe6ae"
+&#xe61b,,pin,"pin, pin an object, pin to home, pin to screen, pin to library, &#xe61b"
+&#xe61c,,pin-options,"pin, options, pin options, &#xe61c"
+&#xe7b1,,planning-sequence,"planning, planning sequence, sequence, &#xe7b1"
+&#xe70a,,play,"play, &#xe70a"
+&#xe7c3,,play-process,"play, play button, process, play-process, button play, button-play, &#xe7c3"
+&#xe6dd,,polygon-tool,"polygon, polygon tool, polygon-tool, tool, tool polygon, tool-polygon, &#xe6dd"
+&#xe758,,portrait-format,"portrait, format, portrait format, &#xe758"
+&#xe684,,power,"power, on button, off button, power on, power off, on, off, &#xe684"
+&#xe604,,preferences,"preferences, object preferences, cluster multiple preferences options, wrench, control, configuration, settings, tool, &#xe604"
+&#xe605,,preferences-options,"preferences-options, preferences, preferences options, options, &#xe605"
+&#xe633,,preview,"preview, image, mountains, mountain, sun, image widget, &#xe633"
+&#xe626,,previous,"previous, arrow, left arrow, thick arrow, &#xe626"
+&#xe714,,primary-data,"primary, data, primary data, blending, &#xe714"
+&#xe6c1,,primary-data-left-joint,"primary, data, left, join, primary data left join, left join, &#xe6c1"
+&#xe816,,primary-key,"key, primary key, key filled, filled key, &#xe816"
+&#xe611,,print,"print, printer, print system data, printing machine, &#xe611"
+&#xe754,,process,"process, &#xe754"
+&#xe68f,,profile,"person, individual, user, customer, human, circle, profile, me, &#xe68f"
+&#xe632,,properties,"properties, trigger properties, &#xe632"
+&#xe622,,public,"public, open lock, lock, &#xe622"
+&#xe620,,publish,"publish, export, &#xe620"
+&#xe764,,r-language,"language, predictive, r, r script, r-language, &#xe764"
+&#xe6fc,,radar,"radar, chart, chart widget, &#xe6fc"
+&#xe7c6,,radiobutton,"radio button, radio-button, single select, radio button control, radio button widget, &#xe7c6"
+&#xe802,,range-slider,"range, slider, range slider, range-slider, &#xe802"
+&#xe6c5,,rank,"rank, competitor, winner, prize, award, trophy, cup, &#xe6c5"
+&#xe84f,,record,"record, square, circle, &#xe84f"
+&#xe617,,redo,"redo, redo action, redo an action, &#xe617"
+&#xe709,,reference-line,"reference line, line, reference, reference-line, &#xe709"
+&#xe7c1,,regression,"regression, predictive, predictive pro, &#xe7c1"
+&#xe67a,,reject,"reject, reset, &#xe67a"
+&#xe7d8,,reject-assignee,"reset, reset assignee, assignee, assignee reject, &#xe7d8"
+&#xe813,,relationship-diagram,"relationship diagram, diagram, relationship, &#xe813"
+&#xe606,,reload,"reload, refresh, update, update object, &#xe606"
+&#xe67b,,reminder,"bell, reminder, alert, alarm, notify, &#xe67b"
+&#xe707,,remove_row_column,"remove row column, remove, remove-row-column, remove_row_column, &#xe707"
+&#xe72c,,replace,"replace, squares, squares pointing at eachother, squares with arrows, replace cells, cells, row with other cells/row, e72c, &#xe72c"
+&#xe840,,replication-flow,"replication flow, replication, flow, dwc, datasphere, di, e840, &#xe840"
+&#xe640,,reports,"report, file, reports, reporting, &#xe640"
+&#xe67f,,request,"key, request, discussion bubble, role, request role, &#xe67f"
+&#xe849,,requirement-diagram,"requirement-diagram, &#xe849"
+&#xe7b4,,resize-corner,"resize, corner, resize corner, &#xe7b4"
+&#xe825,,responsive-panel,"responsive, panel, responsive panel, responsive panel widget, responsive-panel, &#xe825"
+&#xe838,,retail-store-manager,"retail-store-manager, &#xe838"
+&#xe839,,retail-store-share,"retail-store-share, &#xe839"
+&#xe6cb,,reuse,"arrows, reuse, &#xe6cb"
+&#xe678,,review,"action in review, review, reviewer, approver, &#xe678"
+&#xe653,,right-aligned,"right aligned, right, aligned, right-aligned, &#xe653"
+&#xe6ba,,right-aligned-object,"right-aligned-object, right aligned, right, aligned, object, right-aligned, &#xe6ba"
+&#xe657,,right-border,"right border, border, right, right-border, &#xe657"
+&#xe7e8,,roambi,"roambi, &#xe7e8"
+&#xe67e,,roles,"key, unfilled key, key unfilled, roles unfilled, &#xe67e"
+&#xe74f,,root-folder,"root folder, cog, folder, root-folder, system root folder, found in file repository, &#xe74f"
+&#xe73c,,rotate-180,"rotate, rotate 180, 180, rotate object, rotate-180, &#xe73c"
+&#xe73b,,rotate-left-90,"rotate left, 90, rotate, left, rotate left 90, &#xe73b"
+&#xe73a,,rotate-right-90,"rotate-right-90, &#xe73a"
+&#xe746,,route,"route, path, start to finish, circle, dotted path, dotted, dotted line, &#xe746"
+&#xe762,,rows,"rows, &#xe762"
+&#xe801,,ruum,"ruum, ruum application, found in boardroom, &#xe801"
+&#xe78f,,same_elements,"same_elements, same, elements, &#xe78f"
+&#xe7e9,,sample-content,"sample, sample content, sample-content, shapes, &#xe7e9"
+&#xe7fd,,sankey-chart,"chart, sankey, sankey chart, sanket chart widget, chart widget, charts, &#xe7fd"
+&#xe612,,save,"save, save-options, save options, floppy disk, &#xe612"
+&#xe613,,save-options,"save, options, &#xe613"
+&#xe73d,,scale,"compare, law, justice, scale, measure, weight, balance, comparison, &#xe73d"
+&#xe70d,,scatter-bubble,"chart, scatter bubble, scatter, scatter-bubble, bubble, &#xe73d"
+&#xe68b,,scatter-plot,"scatterplot, chart, scatter, plot, scatter-plot, scatter plot chart, &#xe68b"
+&#xe7b3,,screenshot,"screenshot, camera, &#xe7b3"
+&#xe607,,search,"search, magnifier, glass, &#xe607"
+&#xe621,,security,"lock, security, closed lock, secure an object, secure, object secured, &#xe621"
+&#xe661,,select-all-cells,"select all cells, select all, cells, select, all, &#xe661"
+&#xe671,,send,"paper airplane, send, paper plane, flight, paper, plane, fly, message, note, folded, &#xe671"
+&#xe6e0,,server,"server, server box, &#xe6e0"
+&#xe603,,settings,"settings, global system settings, cog, setting, cogwheel, configuration, tools, modify, customize, &#xe603"
+&#xe69b,,shape,"shape, shapes, square circle triangle, add shape, add shapes, &#xe69b"
+&#xe61f,,share,"share, &#xe61f"
+&#xe6de,,show,"show, eye, &#xe6de"
+&#xe64c,,show-hide-grid-dimension,""
+&#xe755,,simulate,"simulate, monitor, computer, trend, data, integration, watch, view, watch trend, computer with line, computer with trend, &#xe755"
+&#xe6ec,,single-view,"single, single view, view, single-view, &#xe6ec"
+&#xe737,,slash,"slash, part of color management control, &#xe737"
+&#xe803,,slider,"slider, app building, &#xe803"
+&#xe7ac,,slim-arrow-down,"slim arrow down, slim arrow, down arrow, arrow-down, slim, arrow, arrow slim down, &#xe7ac"
+&#xe7ae,,slim-arrow-left,"slim, arrow, left, slim arrow left, &#xe7ae"
+&#xe7af,,slim-arrow-right,"slim, arrow, right, slim arrow right, &#xe7af"
+&#xe7ad,,slim-arrow-up,"slim arrow up, slim arrow, up arrow, arrow-up, slim, arrow, arrow slim up,, &#xe7ad"
+&#xe7cf,,small,"small, &#xe7cf"
+&#xe63b,,smart-help,"smart help, smart-help, smart_help, help center, owl, help library, context sensitive help, &#xe63b"
+&#xe811,,snowflake,"snowflake, &#xe811"
+&#xe743,,sort,"sort, &#xe743"
+&#xe744,,sort-ascending,"sort, table column sort, ascending, sort ascending, ascending sort, &#xe744"
+&#xe745,,sort-descending,"sort, descending, sort descending, descending sort, &#xe745"
+&#xe6c2,,sorted-options,"sorted-options, sorted options, &#xe6c2"
+&#xe6eb,,split-view,"split, view, split view, &#xe6eb"
+&#xe71e,,spread,"spread, &#xe71e"
+&#xe763,,SQL,"sql, query, data, integration, data integration, &#xe763"
+&#xe6db,,square,"square, chloropleth layer, environement for r-language auto suggestion, hloropleth layer for geo maps, square, two squares, &#xe6db"
+&#xe666,,stacked-bar-columns,"chart, stacked bar columns, bar columns, stacked-bar-columns, stacked bar, vertical stacked bar chart, vertical stacked bar, &#xe666"
+&#xe665,,stacked-bar-rows,"stacked bar chart, chart, horizontal chart, stacked bars, horizontal stacked bars, &#xe665"
+&#xe6ff,,star,"star, star outline, favorite, indicate rating, &#xe6ff"
+&#xe62c,,star-filled,"star, filled star, star filled, favorite, indicate rating, &#xe62c"
+&#xe79a,,static-filter,"static, filter, static filter, filter static, &#xe79a"
+&#xe71d,,step,"step, &#xe71d"
+&#xe7c4,,stop-process,"stop-process, stop, process, process stop, stop button, &#xe7c4"
+&#xe7f9,,stop-watch,"stop, stop watch, stop-watch, watch, time, stop clock, &#xe7f9"
+&#xe784,,store,"store, shop, retail, market, &#xe784"
+&#xe6b2,,stories,"story, stories, chart, story dashboard, dashboard, &#xe6b2"
+&#xe64f,,strike,"strike, strikethrough, strike through, text strike through, strike through for text, strike through styling, striked text, text, &#xe64f"
+&#xe644,,style,"style, paint palette, palette, theme, apply theme, &#xe644"
+&#xe636,,success,"check, check mark, checkmark, success, checkmark in square, &#xe636"
+&#xe795,,sum,"sum, &#xe795"
+&#xe687,,summary,"summary, &#xe687"
+&#xe76b,,support,"support, &#xe76b"
+&#xe807,,tab-container,"tab-container, tab, container, &#xe807"
+&#xe6af,,table,"table, tables, &#xe6af"
+&#xe81a,,table-builder,"table-builder, table builder, builder, wrench, tools, table, dwc, data builder, builder-table, &#xe81a"
+&#xe815,,table-view,"table, table view, view, dwc, table-view, &#xe815"
+&#xe642,,tag,"tag, &#xe642"
+&#xe675,,task,"task, &#xe675"
+&#xe7ec,,team-folder,"team, folder, team folder, folder team, teams folder, people, &#xe7ec"
+&#xe81e,,temperature-cold,"temperature, cold, temperature cold, cold temperature, &#xe81e"
+&#xe81f,,temperature-hot,"temperature, hot, hot temperature, temperature hot, &#xe81f"
+&#xe681,,template,"template, story templates, story template, &#xe681"
+&#xe79b,,temporary-filter,"temporary filter, filter, temporary, &#xe79b"
+&#xe771,,terminal,"terminal, &#xe771"
+&#xe68e,,text,"aa, text, font, font size, &#xe68e"
+&#xe78a,,text-abc,"text, abc, text abc, abc text, font, &#xe78a"
+&#xe79c,,text-wrap,"text-wrap, text, wrap, wrap chart title, wrap chart title text, text wrap, wrap text to next line, &#xe79c"
+&#xe7eb,,third-party-content,"third party content, content, third party, person, &#xe7eb"
+&#xe789,,threshold-alert,"circle, threshold, alert, threshold alert, threshold-alert, &#xe789"
+&#xe787,,threshold-good,"square, threshold, good, threshold good, good threshold, &#xe787"
+&#xe788,,threshold-warning,"threshold, threshold warning, warning, warning threshold, triangle, &#xe788"
+&#xe732,,tiles,"tiles, &#xe732"
+&#xe6e9,,time,"time, &#xe6e9"
+&#xe78d,,time-calculation,"time, calculation, time calculation, clock, formula, time-calculation, &#xe78d"
+&#xe805,,time-entry-request,"time, entry, request, time entry request, time input, clock, &#xe805"
+&#xe719,,time-series,"time series, timeseries, time, chart, time series chart, clock, &#xe719"
+&#xe691,,timeline,"timeline, timeline panel, trigger timeline panel, &#xe691"
+&#xe824,,toggle-switch,"switch, toggle, toggle switch, toggle-switch, &#xe824"
+&#xe75d,,tooltip,""
+&#xe6bb,,top-aligned-object,"top, aligned, object, top-aligned-object, top-aligned, aligned-object, &#xe6bb"
+&#xe781,,top-and-bottom-border,"top and bottom border, top and bottom, border, &#xe781"
+&#xe656,,top-border,"top-border, top, border, &#xe656"
+&#xe823,,tracking,"tracking, &#xe823"
+&#xe770,,transfer_briefcase,"transfer_briefcase, &#xe770"
+&#xe728,,transform,"transform, &#xe728"
+&#xe7e6,,translation,"translation, language, languages, &#xe7e6"
+&#xe7bf,,tree,"tree, tree diagram, diagram"
+&#xe6f9,,tree-map,"tree, tree map, tree map chart, chart, chart widget, treemap"
+&#xe6a6,,trend,"arrow, trend, up, diagonal, increase, improve"
+&#xe7df,,tri-state,"tri state, tri-state, input control tri state, checkbox tri state, checkbox tri-state, tri-state for checkbox"
+&#xe62a,,truncation,"truncation, &#xe62a"
+&#xe62b,,truncation-options,"truncation, options, truncation options, options truncation, &#xe62b"
+&#xe74e,,turtle,"turtle, &#xe74e"
+&#xe782,,twitter,"bird, twitter, social platform, &#xe782"
+&#xe64e,,underline,"underline, underline text, &#xe64e"
+&#xe616,,undo,"undo, undo action, xe616, undo an action, &#xe616"
+&#xe727,,ungroup,"ungroup, ungroup objects, ungroup widgets, &#xe727"
+&#xe725,,union,"union, node, vdt, union node, &#xe725"
+&#xe7e2,,unique,"thumb print, thumb, unique, unique key, found in data wrangling, &#xe7e2"
+&#xe673,,unlink,"link, unlink, &#xe673"
+&#xe64b,,unmerge-cells,"unmerge, unmerge cells, cells, unmerge-cells, &#xe64b"
+&#xe7fc,,unpivot-transformation,"unpivot transformation, unpivot, transformation, unpivot_transformation, unpivot-transformation, &#xe7fc"
+&#xe624,,up,"up, arrow, up arrow, &#xe624"," tree
+&#xe62d,,upload,"upload, copy content from me to electronic location, &#xe62d"
+&#xe817,,upload-to-cloud,"&#xe817, upload, to, cloud"
+&#xe67c,,users,"users, user, persons, people, multiple people, group of people, more than one person"
+&#xe84b,,uuid,""
+&#xe6ea,,value-driver-tree,"value-driver-tree, value driver tree, planning, value driver, value_driver_tree, value, driver, tree, impact, lineage, analysis, impact and lineage analysis, lineage analysis, impact analysis, dwc, &#xe6ea, e6ea"
+&#xe6c9,,value-help,"value, help, value help, launch dialog, two squares, squares"
+&#xe6d4,,variable,"prompt, script variable"
+&#xe6d5,,variable-options,""
+&#xe688,,variance,"variance, bar, chart, variance bar chart"
+&#xe796,,variance-bar,"variance, variance-bar, variance as bar, display variance as bar, bar variance, bar, bar-variance"
+&#xe689,,variance-line,"variance, line variance, variance line, variance as line, line, chart"
+&#xe712,,vector,"vector, vector path, path, vector tool"
+&#xe648,,versions,"versions, categories & versions, direction sign, planning, versions panel, version, &#xe648"
+&#xe649,,versions-options,"version, options, version options, versions-options"
+&#xe69f,,vertical-align-bottom,"vertical, align, bottom, styling, vertical-align-bottom, &#xe69f"," requirement
+&#xe69e,,vertical-align-middle,"vertical, align, middle, vertical align middle, text, align text, align text to middle, vertical-align-middle, &#xe69e"
+&#xe69d,,vertical-align-top,"vertical, align, top, vertical align top, align top, text align top, align text to top, vertical-align-top"
+&#xe6b9,,vertically-aligned-object,"vertically aligned object, vertically, aligned, object, vertically-aligned-object, &#xe6b9"
+&#xe637,,warning,"warning, &#xe637"
+&#xe82f,,watchlist,"stock market arrow, arrow, trend up, watchlist, watch list"
+&#xe82e,,watchlist-add,"trend up, stock market arrow, stock mark, add to watch list, watch list, watchlist"
+&#xe6a3,,waterfall-rows,"waterfall, waterfall chart, chart, chart widget, horizontal chart, horizontal waterfall chart, horizontal, waterfall-rows, &#xe6a3"
+&#xe7a2,,working-model,"working, model, working model"
+&#xe7a4,,wrangling,"wrangling"
+&#xe713,,zoom-in,"zoom, in, zoom in, zoom-in"
+&#xe647,,zoom-out,"zoom, out, zoom out, zoom-out, &#xe647"
