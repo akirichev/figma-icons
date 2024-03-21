@@ -172,3 +172,8 @@ task-done,,/e10A,status,"process, complete"
 ai-1,,/e10B,status,"ai, artificial-intelligence, chat, large-language-model, conversation, co-pilot"
 ai-2,,/e10C,status,"ai, artificial-intelligence, chat, large-language-model, conversation, co-pilot"
 bound-validation-rule,,/e10D,status,"bound-validation-rule, binding, column"
+fiori-application,,/e10e,,
+build-code,,/e10f,,
+business-application-studio,,/e110,,
+clone-from-git,,/e111,,
+business-accelerator,,/e112,,
